@@ -1,0 +1,2319 @@
+ROBJR:
+Landorus-Therian: Toxic / U-turn
+Slowbro: Teleport / Body Press
+Tornadus-Therian: Knock Off / Hurricane / U-turn
+Heatran: Earth Power / Stealth Rock / Eruption / Magma Storm
+Zeraora: Close Combat / Plasma Fists / Knock Off
+Melmetal: Toxic / Thunder Punch / Double Iron Bash
+
+SAMQIAN:
+Clefable: Aromatherapy / Wish / Soft-Boiled
+Heatran: Stealth Rock / Heavy Slam
+Landorus-Therian: U-turn / Defog
+Weavile: Knock Off / Swords Dance
+Slowbro: Future Sight / Teleport / Slack Off
+Zapdos: Thunderbolt / Hurricane / Volt Switch / Roost
+
+INSULT:
+Landorus-Therian: Toxic / U-turn / Earthquake
+Tapu Koko: Thunderbolt / Dazzling Gleam / Roost
+Urshifu-*: 
+Melmetal: Protect
+Heatran: Stealth Rock / Eruption / Earth Power
+Tornadus-Therian: Knock Off / U-turn
+
+BRO FIST:
+Slowbro: Future Sight / Teleport / Slack Off
+Weavile: Knock Off / Ice Shard
+Heatran: Stealth Rock / Heavy Slam / Lava Plume
+Landorus-Therian: Toxic / U-turn
+Tapu Lele: Focus Blast / Psyshock
+Urshifu-*: 
+
+TACE㋛:
+Zapdos-Galar: Brave Bird
+Garchomp: Stealth Rock / Earthquake / Toxic / Protect
+Ferrothorn: 
+Tornadus-Therian: 
+Tapu Koko: Dazzling Gleam
+Tapu Fini: Moonblast
+
+MIND GAMING:
+Dragapult: Double-Edge / Phantom Force
+Kartana: Smart Strike
+Bisharp: Beat Up
+Melmetal: Superpower / Double Iron Bash
+Landorus-Therian: Stealth Rock / U-turn
+Weavile: Beat Up
+
+OX THE FOX:
+Ferrothorn: Knock Off / Spikes / Leech Seed
+Weavile: Knock Off
+Landorus-Therian: Earthquake / Stealth Rock / Toxic
+Victini: Bolt Strike / U-turn
+Urshifu-*: 
+Tapu Koko: U-turn / Thunderbolt / Dazzling Gleam
+
+BEAOMICRON:
+Kartana: Leaf Blade / Knock Off
+Landorus-Therian: Toxic / Defog / U-turn
+Magnezone: Iron Defense / Body Press
+Nihilego: Meteor Beam / Pain Split
+Slowbro: Teleport / Slack Off
+Weavile: Knock Off / Triple Axel / Swords Dance
+
+SEPARATION:
+Ninetales-Alola: Aurora Veil
+Dragapult: 
+Heatran: Stealth Rock
+Garchomp: Swords Dance / Aqua Tail / Scale Shot / Earthquake
+Cloyster: Shell Smash / Icicle Spear
+Scizor: 
+
+AJNA:
+Landorus-Therian: Earthquake
+Toxapex: 
+Tapu Koko: 
+Ferrothorn: Body Press
+Weavile: Ice Shard / Swords Dance / Knock Off
+Slowking-Galar: Scald / Sludge Bomb / Future Sight
+
+ETERNAL SPIRIT:
+Bisharp: Knock Off
+Buzzwole: Roost / Thunder Punch / Ice Punch
+Landorus-Therian: Stealth Rock / Toxic / U-turn
+Latios: Thunderbolt / Ice Beam
+Toxapex: Poison Jab / Recover
+Zeraora: Knock Off
+
+MAX UND MAX:
+Tornadus-Therian: Knock Off / Hurricane / U-turn / Superpower
+Ninetales-Alola: Moonblast
+Landorus-Therian: Defog / U-turn
+Volcanion: 
+Corviknight: Roost / U-turn / Defog
+Arctozolt: Blizzard / Substitute / Bolt Beak / Low Kick
+
+H.M.N.I.P:
+Barraskewda: Flip Turn
+Seismitoad: Stealth Rock
+Dragonite: 
+Volcanion: Steam Eruption
+Pelipper: 
+Melmetal: Superpower
+
+LEO:
+Garchomp: 
+Blaziken: Close Combat
+Heatran: Stealth Rock / Will-O-Wisp
+Dragapult: U-turn / Dragon Darts
+Ninetales-Alola: Hypnosis / Aurora Veil
+Arctozolt: Bolt Beak
+
+RUBYBLOOD:
+Landorus-Therian: U-turn
+Heatran: 
+Weavile: Knock Off / Triple Axel
+Tornadus-Therian: Defog / Hurricane / U-turn / Toxic
+Zeraora: Plasma Fists
+Slowbro: Future Sight / Teleport / Body Press
+
+BIHI:
+Ninetales-Alola: Aurora Veil / Hypnosis / Blizzard
+Volcarona: 
+Landorus-Therian: U-turn / Toxic
+Tapu Fini: Calm Mind / Substitute / Draining Kiss
+Bisharp: Swords Dance / Knock Off / Iron Head / Rock Polish
+Blacephalon: 
+
+HSA:
+Landorus-Therian: U-turn / Earthquake / Toxic
+Corviknight: U-turn
+Tapu Koko: U-turn / Thunderbolt / Dazzling Gleam
+Toxapex: Scald
+Weavile: Knock Off / Ice Shard
+Blacephalon: Shadow Ball
+
+DEVIN:
+Zeraora: Knock Off / Close Combat
+Landorus-Therian: U-turn
+Heatran: Earth Power
+Blacephalon: Shadow Ball / Flamethrower
+Tornadus-Therian: Hurricane / Focus Blast / Knock Off / Substitute
+Tapu Fini: Whirlpool / Nature's Madness / Taunt / Moonblast
+
+TALAH☭:
+Dracozolt: Bolt Beak / Draco Meteor
+Slowbro: Teleport
+Landorus-Therian: Defog / U-turn
+Tyranitar: Stealth Rock / Rock Blast
+Ferrothorn: Knock Off / Leech Seed
+Tornadus-Therian: Hurricane / Heat Wave
+
+PYUKUMUKU GURU:
+Pelipper: U-turn / Roost
+Ferrothorn: Stealth Rock
+Moltres-Galar: Fiery Wrath
+Zapdos: Hurricane
+Barraskewda: Flip Turn / Crunch / Liquidation
+Seismitoad: Liquidation
+
+MNCMT:
+Landorus-Therian: Defog / Stealth Rock / U-turn
+Weavile: Knock Off / Triple Axel
+Ferrothorn: 
+Zapdos: Hurricane / Volt Switch
+Tapu Fini: Calm Mind / Surf / Taunt / Draining Kiss
+Blacephalon: Trick / Shadow Ball
+
+CORAZAN:
+Tornadus-Therian: Heat Wave / Toxic / U-turn
+Urshifu-*: 
+Heatran: Magma Storm / Protect / Earth Power / Heavy Slam
+Landorus-Therian: Stealth Rock
+Bisharp: Knock Off
+Slowbro: Future Sight / Teleport / Slack Off / Body Press
+
+1 TRUE LYCAN:
+Landorus-Therian: Bulk Up / Earthquake / Smack Down
+Ferrothorn: 
+Clefable: Soft-Boiled / Moonblast / Calm Mind
+Tyranitar: Stealth Rock / Toxic / Stone Edge
+Dragonite: Roost / Dual Wingbeat / Dragon Dance / Earthquake
+Tapu Fini: Trick / Hydro Pump / Moonblast
+
+TROSKO:
+Tornadus-Therian: Knock Off / U-turn / Heat Wave / Hurricane
+Ferrothorn: Leech Seed
+Landorus-Therian: Stealth Rock / U-turn
+Tapu Fini: Moonblast / Trick / Defog
+Magnezone: Volt Switch / Flash Cannon
+Clefable: Soft-Boiled / Moonblast
+
+MICHAELDERBESTE2:
+Tornadus-Therian: Knock Off / U-turn / Defog / Hurricane
+Garchomp: Scale Shot / Earthquake / Aqua Tail
+Landorus-Therian: Stealth Rock
+Magnezone: Flash Cannon
+Toxapex: Toxic / Recover / Knock Off / Haze
+Melmetal: Double Iron Bash / Protect / Toxic
+
+NIKO:
+Tapu Koko: Thunderbolt
+Heatran: Stealth Rock / Lava Plume / Toxic
+Landorus-Therian: Earthquake / U-turn
+Volcanion: Steam Eruption / Earth Power
+Tornadus-Therian: Knock Off / U-turn / Icy Wind / Hurricane
+Tapu Fini: Calm Mind / Hydro Pump / Taunt / Draining Kiss
+
+CLARK_03:
+Weavile: Ice Shard / Icicle Crash
+Garchomp: Aqua Tail / Swords Dance / Stealth Rock / Earthquake
+Volcarona: Fiery Dance / Psychic / Quiver Dance / Roost
+Ferrothorn: Spikes
+Tapu Fini: Nature's Madness / Whirlpool / Moonblast
+Zapdos: Thunderbolt / Hurricane / U-turn
+
+LUTHIER:
+Dragapult: U-turn / Shadow Ball
+Corviknight: Roost / U-turn
+Swampert: Stealth Rock / Toxic / Earthquake / Flip Turn
+Kartana: Knock Off / Sacred Sword
+Zeraora: Play Rough / Plasma Fists
+Kommo-o: Close Combat
+
+64 SQUARES:
+Victini: V-create / Bolt Strike / Taunt
+Weavile: Knock Off / Swords Dance
+Slowking-Galar: Future Sight / Flamethrower / Sludge Bomb
+Landorus-Therian: Stealth Rock / Toxic / U-turn / Earthquake
+Corviknight: Defog / U-turn / Roost / Brave Bird
+Tapu Fini: Draining Kiss / Calm Mind / Surf / Taunt
+
+WARUMFELIX:
+Tapu Koko: 
+Dragonite: Earthquake
+Victini: U-turn / V-create / Encore / Bolt Strike
+Ferrothorn: Knock Off / Gyro Ball / Leech Seed / Spikes
+Landorus-Therian: Stealth Rock / U-turn / Toxic / Earthquake
+Clefable: Thunder Wave / Trick / Moonblast
+
+64 SQUARES:
+Dragapult: Draco Meteor / Shadow Ball / Thunderbolt
+Melmetal: Double Iron Bash / Superpower / Thunder Punch
+Toxapex: Toxic / Haze
+Tornadus-Therian: Knock Off / Hurricane / Nasty Plot / Heat Wave
+Landorus-Therian: Toxic / U-turn
+Heatran: Stealth Rock
+
+SEPARATION:
+Zapdos: Hurricane / Roost / Thunderbolt
+Urshifu-*: 
+Weavile: Ice Shard / Swords Dance / Triple Axel / Knock Off
+Landorus-Therian: 
+Ferrothorn: Stealth Rock / Leech Seed
+Slowking: Scald / Future Sight / Teleport
+
+BBEEAA:
+Zapdos: Substitute / Hurricane / Roost / Discharge
+Toxapex: Recover / Haze / Scald / Knock Off
+Landorus-Therian: Defog / U-turn / Toxic
+Weavile: Triple Axel / Knock Off
+Slowking-Galar: Earthquake
+Scizor: Defog / U-turn
+
+LUTHIER:
+Kartana: Swords Dance / Sacred Sword
+Blaziken: Flare Blitz / Thunder Punch
+Nihilego: Power Gem / Stealth Rock / Meteor Beam
+Landorus-Therian: Swords Dance / Stone Edge / Rock Polish
+Urshifu-*: 
+Celesteela: Autotomize / Air Slash
+
+ETERNAL SPIRIT:
+Clefable: Calm Mind / Soft-Boiled
+Corviknight: Body Press
+Landorus-Therian: U-turn / Stealth Rock
+Tapu Koko: Thunderbolt
+Volcanion: Earth Power / Substitute / Steam Eruption
+Weavile: 
+
+MICHAELDERBESTE2:
+Tapu Fini: Nature's Madness / Moonblast
+Landorus-Therian: Earthquake
+Hawlucha: 
+Nihilego: Meteor Beam / Sludge Wave
+Heatran: Eruption / Stealth Rock / Magma Storm / Earth Power
+Celesteela: 
+
+TROSKO:
+Garchomp: Earthquake / Toxic
+Magnezone: Volt Switch
+Tapu Fini: Moonblast
+Slowking-Galar: Sludge Bomb / Psychic
+Corviknight: Roost / Body Press / Defog / U-turn
+Weavile: Knock Off / Triple Axel
+
+SAMQIAN:
+Kartana: Knock Off / Sacred Sword / Leaf Blade
+Tapu Lele: Calm Mind / Psyshock / Focus Blast
+Landorus-Therian: Stealth Rock / U-turn / Earthquake
+Melmetal: Thunder Punch / Superpower
+Dragonite: Ice Punch / Earthquake
+Urshifu-*: 
+
+INSULT:
+Arctozolt: Substitute / Blizzard / Low Kick / Bolt Beak
+Tornadus-Therian: U-turn
+Garchomp: Toxic / Stealth Rock / Protect
+Ferrothorn: Gyro Ball
+Ninetales-Alola: Freeze-Dry / Moonblast / Encore
+Blaziken: Flare Blitz
+
+CORAZAN:
+Dragapult: Draco Meteor / Shadow Ball
+Ferrothorn: Power Whip / Leech Seed
+Landorus-Therian: Stealth Rock / U-turn
+Rotom-Wash: Defog
+Bisharp: Knock Off / Swords Dance / Sucker Punch
+Tornadus-Therian: Knock Off / U-turn / Heat Wave
+
+TALAH☭:
+Weavile: Knock Off / Triple Axel
+Ferrothorn: 
+Zapdos: U-turn / Discharge / Roost / Hurricane
+Urshifu-*: 
+Tapu Fini: Trick
+Landorus-Therian: Toxic / Stealth Rock / U-turn
+
+TACE㋛:
+Zapdos: Toxic / Roost / Volt Switch / Hurricane
+Melmetal: Superpower / Double Iron Bash
+Heatran: Eruption / Stealth Rock / Magma Storm
+Landorus-Therian: Knock Off / U-turn
+Slowbro: Teleport
+Kartana: Sacred Sword / Knock Off
+
+PKMN CYPHER 2013:
+Kartana: Knock Off / Leaf Blade
+Landorus-Therian: Toxic / U-turn
+Magnezone: Discharge
+Nihilego: Power Gem / Stealth Rock / Pain Split / Meteor Beam
+Tapu Fini: Surf
+Weavile: Knock Off / Triple Axel / Swords Dance
+
+MNCMT:
+Zapdos: Substitute / Hurricane / Discharge
+Toxapex: Scald / Knock Off / Recover
+Landorus-Therian: Defog / Toxic
+Weavile: Low Kick / Knock Off
+Slowking-Galar: Future Sight / Flamethrower / Earthquake
+Scizor: U-turn / Defog
+
+1 TRUE LYCAN:
+Weavile: Knock Off / Triple Axel / Ice Shard
+Ferrothorn: Leech Seed / Knock Off
+Toxapex: Recover / Toxic / Haze / Scald
+Dragapult: Draco Meteor / Shadow Ball
+Garchomp: Stealth Rock / Aqua Tail
+Tornadus-Therian: U-turn / Hurricane
+
+DEVIN:
+Glastrier: Swords Dance / High Horsepower / Icicle Spear
+Urshifu-*: 
+Landorus-Therian: Earthquake / U-turn
+Dragapult: Shadow Ball / Draco Meteor
+Heatran: Stealth Rock / Magma Storm
+Tapu Lele: Calm Mind / Psyshock / Draining Kiss
+
+BIHI:
+Ninetales-Alola: Aurora Veil
+Volcarona: Quiver Dance / Psychic
+Landorus-Therian: Earthquake / Defog / U-turn
+Tapu Fini: Calm Mind / Draining Kiss
+Bisharp: Swords Dance / Low Kick
+Blacephalon: Shadow Ball
+
+BEAHASSMALLPEEPEE:
+Suicune: 
+Ferrothorn: Body Press / Stealth Rock
+Landorus-Therian: U-turn
+Nihilego: Meteor Beam / Power Gem
+Weavile: Knock Off
+Dragapult: Flamethrower / Shadow Ball
+
+AJNA:
+Landorus-Therian: U-turn / Stealth Rock / Knock Off / Earthquake
+Toxapex: 
+Tapu Koko: Volt Switch / Dazzling Gleam / Thunderbolt
+Ferrothorn: 
+Weavile: Knock Off
+Slowking-Galar: Future Sight
+
+LEO:
+Kartana: Swords Dance / Sacred Sword / Leaf Blade
+Landorus-Therian: U-turn / Earthquake
+Heatran: Stealth Rock / Earth Power / Magma Storm
+Zapdos: Hurricane / Volt Switch
+Slowbro: Future Sight / Teleport / Ice Beam
+Dragapult: Shadow Ball / Flamethrower
+
+OX THE FOX:
+Corviknight: Defog / U-turn / Roost
+Garchomp: Stealth Rock / Protect
+Weavile: Triple Axel
+Slowking-Galar: Future Sight / Flamethrower / Scald
+Kartana: Knock Off
+Urshifu-*: 
+
+RUBYBLOOD:
+Landorus-Therian: U-turn / Earthquake / Explosion
+Tyranitar: Stealth Rock / Rock Blast / Earthquake / Ice Beam
+Dracozolt: Bolt Beak / Draco Meteor / Earthquake
+Tapu Fini: Knock Off / Nature's Madness / Whirlpool
+Corviknight: Body Press / Roost / U-turn / Defog
+Excadrill: Earthquake
+
+EL TFT MAINER:
+Zapdos: Hurricane / Volt Switch
+Weavile: Triple Axel / Beat Up / Ice Shard
+Kartana: Leaf Blade
+Landorus-Therian: U-turn / Earthquake
+Volcanion: Flamethrower / Steam Eruption
+Melmetal: Earthquake
+
+MAX UND MAX:
+Tapu Koko: Roost / U-turn / Thunderbolt
+Weavile: Knock Off / Icicle Crash / Low Kick
+Victini: V-create
+Urshifu-*: 
+Landorus-Therian: 
+Ferrothorn: Spikes / Gyro Ball
+
+CLARK_03:
+Heatran: Eruption / Stealth Rock
+Rillaboom: U-turn / Grassy Glide
+Garchomp: Earthquake
+Volcarona: Quiver Dance
+Hawlucha: Close Combat
+Weavile: Ice Shard / Low Kick
+
+ROBJR:
+Landorus-Therian: Earthquake
+Melmetal: Double Iron Bash
+Heatran: Stealth Rock / Eruption / Magma Storm
+Rotom-Wash: 
+Weavile: Ice Shard
+Zeraora: 
+
+BRO FIST:
+Ninetales-Alola: Hypnosis / Aurora Veil
+Cloyster: Icicle Spear / Shell Smash
+Moltres-Galar: Agility / Fiery Wrath
+Garchomp: 
+Dragapult: Dragon Dance / Phantom Force / Fire Blast
+Heatran: Magma Storm / Stealth Rock
+
+WARUMFELIX:
+Weavile: Ice Shard / Swords Dance / Knock Off
+Victini: U-turn / V-create / Encore
+Clefable: Moonblast
+Ferrothorn: Body Press
+Landorus-Therian: Earthquake
+Slowbro: Future Sight / Teleport
+
+NIKO:
+Kartana: Knock Off / Sacred Sword
+Heatran: Stealth Rock
+Zapdos: Hurricane
+Landorus-Therian: Earthquake
+Moltres-Galar: Fiery Wrath
+Tapu Fini: Hydro Pump
+
+MIND GAMING:
+Weavile: Beat Up
+Landorus-Therian: 
+Kartana: Leaf Blade / Swords Dance / Knock Off / Sacred Sword
+Blacephalon: Fire Blast
+Melmetal: Double Iron Bash
+Dragapult: Dragon Darts
+
+INSULT:
+Kartana: Knock Off
+Landorus-Therian: Toxic / U-turn
+Magnezone: Body Press
+Nihilego: Meteor Beam / Stealth Rock / Power Gem
+Slowbro: Teleport / Body Press / Slack Off / Future Sight
+Weavile: Knock Off / Triple Axel
+
+VABOH:
+Landorus-Therian: Defog / Toxic / U-turn / Earthquake
+Volcanion: Sludge Wave / Steam Eruption / Earth Power
+Ferrothorn: Stealth Rock / Leech Seed
+Heatran: 
+Tornadus-Therian: Knock Off / Hurricane / U-turn
+Weavile: 
+
+GTCHA:
+Clefable: Stealth Rock / Trick / Soft-Boiled / Moonblast
+Kartana: Knock Off / Synthesis
+Heatran: Magma Storm
+Slowking: Future Sight / Teleport / Scald
+Landorus-Therian: U-turn / Toxic / Defog / Earthquake
+Weavile: Knock Off / Swords Dance / Triple Axel
+
+SAMQIAN:
+Tapu Koko: Volt Switch / Thunderbolt / U-turn / Dazzling Gleam
+Victini: V-create / Bolt Strike / Encore
+Tornadus-Therian: Knock Off / U-turn / Hurricane
+Ferrothorn: Body Press / Stealth Rock / Knock Off / Leech Seed
+Slowbro: Teleport / Body Press / Slack Off / Ice Beam
+Landorus-Therian: Earthquake
+
+PKMN CYPHER 2013:
+Heatran: Toxic / Stealth Rock / Earth Power / Magma Storm
+Kartana: 
+Dragapult: Shadow Ball
+Rotom-Wash: Volt Switch / Pain Split
+Clefable: Flamethrower / Moonblast
+Landorus-Therian: Earthquake / U-turn
+
+TACE㋛:
+Heatran: Stealth Rock / Eruption
+Tornadus-Therian: Knock Off / U-turn
+Toxapex: Recover / Knock Off
+Dragapult: Shadow Ball
+Landorus-Therian: 
+Melmetal: Superpower / Protect
+
+CONFIDE:
+Landorus-Therian: Earthquake / Toxic / Defog / U-turn
+Corviknight: Defog / U-turn / Body Press / Roost
+Tapu Koko: U-turn / Roost / Toxic / Thunderbolt
+Toxapex: Haze / Scald / Recover
+Weavile: Knock Off
+Victini: Bolt Strike / V-create / U-turn / Trick
+
+LUTHIER:
+Dragonite: Roost / Heal Bell / Flamethrower
+Landorus-Therian: Earthquake / Rest / Defog
+Slowbro: Future Sight / Teleport / Slack Off
+Weavile: Knock Off
+Blissey: Stealth Rock / Thunder Wave / Soft-Boiled / Seismic Toss
+Melmetal: Double Iron Bash / Acid Armor / Substitute / Body Press
+
+MICHAELDERBESTE2:
+Slowking-Galar: Sludge Bomb
+Landorus-Therian: Knock Off / U-turn
+Zapdos: Hurricane / Volt Switch / Roost
+Heatran: Stealth Rock
+Weavile: Knock Off
+Tapu Fini: Calm Mind / Scald / Draining Kiss
+
+EL TFT MAINER:
+Landorus-Therian: Toxic / U-turn / Earthquake
+Melmetal: Double Iron Bash
+Slowbro: Body Press
+Volcanion: Steam Eruption
+Tornadus-Therian: Heat Wave / Knock Off / U-turn
+Weavile: Knock Off / Beat Up / Icicle Crash
+
+64 SQUARES:
+Slowbro: Teleport / Future Sight
+Tapu Koko: 
+Buzzwole: Roost / Ice Punch / Thunder Punch
+Heatran: Stealth Rock / Magma Storm / Earth Power
+Landorus-Therian: Defog / Earthquake / U-turn
+Bisharp: Beat Up
+
+LEO:
+Dragonite: Ice Punch / Roost / Earthquake
+Tapu Koko: 
+Clefable: Trick / Stealth Rock / Soft-Boiled / Moonblast
+Slowking-Galar: Scald / Calm Mind / Sludge Bomb / Slack Off
+Ferrothorn: Spikes / Leech Seed
+Landorus-Therian: Swords Dance
+
+MNCMT:
+Landorus-Therian: Stealth Rock / Knock Off
+Dragapult: Flamethrower
+Melmetal: Toxic / Protect
+Volcanion: Steam Eruption / Sludge Wave / Flamethrower
+Tapu Lele: Psychic
+Zapdos: Volt Switch / Defog
+
+MAX UND MAX:
+Zeraora: Knock Off / Plasma Fists
+Weavile: Knock Off
+Zapdos-Galar: Brave Bird
+Landorus-Therian: Earthquake / Stealth Rock / U-turn / Explosion
+Slowbro: Future Sight / Teleport / Thunder Wave
+Ferrothorn: Leech Seed / Gyro Ball
+
+1 TRUE LYCAN:
+Zeraora: Knock Off / Plasma Fists / Close Combat
+Zapdos-Galar: Close Combat / U-turn / Brave Bird
+Jirachi: U-turn / Stealth Rock / Iron Head
+Landorus-Therian: U-turn / Earthquake / Toxic
+Tapu Fini: Nature's Madness / Moonblast
+Tornadus-Therian: Knock Off / U-turn / Hurricane / Heat Wave
+
+STRESH:
+Landorus-Therian: U-turn / Toxic
+Melmetal: Double Iron Bash / Protect
+Rotom-Wash: Thunderbolt / Volt Switch / Hydro Pump / Pain Split
+Heatran: Eruption
+Clefable: Soft-Boiled / Moonblast / Wish / Knock Off
+Dragapult: Shadow Ball
+
+OX THE FOX:
+Ferrothorn: Body Press
+Tornadus-Therian: Knock Off
+Excadrill: Iron Head / Rapid Spin / Earthquake
+Tyranitar: Stealth Rock / Rock Blast
+Dracozolt: 
+Slowbro: Future Sight / Teleport
+
+THE TOGEKISS USERR:
+Landorus-Therian: Stealth Rock / U-turn
+Heatran: Eruption / Flamethrower
+Volcanion: Steam Eruption
+Venusaur: Weather Ball
+Torkoal: Rapid Spin
+Weavile: Beat Up / Icicle Crash
+
+FREE DEVIN & JUAN:
+Zeraora: Knock Off / Plasma Fists / Close Combat
+Weavile: 
+Melmetal: Thunder Wave / Superpower
+Landorus-Therian: Defog / Earthquake / Toxic / U-turn
+Heatran: 
+Slowbro: Teleport / Slack Off / Future Sight / Body Press
+
+FREEPASYFREEKANTO:
+Heatran: Stealth Rock / Magma Storm / Earth Power / Taunt
+Kartana: Swords Dance / Sacred Sword / Leaf Blade
+Landorus-Therian: Toxic / U-turn
+Tapu Fini: Moonblast / Whirlpool / Taunt
+Weavile: Knock Off
+Zeraora: Bulk Up / Knock Off
+
+ETERNAL SPIRIT:
+Garchomp: 
+Clefable: Stealth Rock / Calm Mind / Moonblast
+Kartana: Leaf Blade
+Landorus-Therian: U-turn / Stone Edge
+Magnezone: Iron Defense / Body Press / Flash Cannon
+Tapu Fini: Calm Mind / Draining Kiss
+
+WARUMFELIX:
+Weavile: Triple Axel / Ice Shard
+Zapdos: Volt Switch / Thunderbolt
+Clefable: Soft-Boiled / Moonblast
+Ferrothorn: Spikes / Power Whip
+Landorus-Therian: Toxic / Stealth Rock / Earthquake
+Tapu Fini: Nature's Madness / Moonblast / Whirlpool / Taunt
+
+SEPARATION:
+Garchomp: Swords Dance / Aqua Tail / Scale Shot / Earthquake
+Weavile: Knock Off / Triple Axel
+Ferrothorn: Knock Off / Stealth Rock
+Rotom-Wash: Pain Split / Thunder Wave / Volt Switch / Hydro Pump
+Tapu Fini: Whirlpool / Moonblast
+Tornadus-Therian: U-turn / Defog
+
+CLARK_03:
+Tapu Koko: Thunderbolt / Dazzling Gleam / Roost
+Dragonite: Earthquake
+Victini: U-turn / Bolt Strike
+Ferrothorn: Spikes / Leech Seed / Gyro Ball
+Landorus-Therian: Earthquake
+Clefable: Trick / Thunder Wave / Moonblast / Soft-Boiled
+
+TALAH☭:
+Heatran: Magma Storm / Taunt
+Tapu Fini: Moonblast
+Dragonite: 
+Landorus-Therian: U-turn
+Weavile: Knock Off / Ice Shard
+Kartana: Leaf Blade / Knock Off
+
+MIND GAMING:
+Weavile: Swords Dance
+Landorus-Therian: U-turn
+Aegislash: Shadow Claw / Shadow Sneak
+Tapu Lele: Psychic / Moonblast
+Dragapult: Dragon Dance / Phantom Force
+Urshifu-*: 
+
+FLIPPING THROUGH:
+Dragonite: Earthquake / Dragon Dance / Superpower
+Tapu Koko: Dazzling Gleam / Volt Switch
+Buzzwole: Close Combat / Earthquake
+Heatran: 
+Ferrothorn: Spikes / Iron Head
+Garchomp: 
+
+ROBJR:
+Kartana: Smart Strike
+Volcanion: Steam Eruption
+Melmetal: 
+Dragapult: Dragon Darts / U-turn / Phantom Force
+Landorus-Therian: U-turn / Earthquake
+Weavile: Beat Up / Knock Off / Low Kick
+
+TROSKO:
+Tapu Koko: U-turn / Roost
+Ferrothorn: Spikes / Leech Seed / Thunder Wave
+Tornadus-Therian: Knock Off / U-turn
+Heatran: Stealth Rock / Magma Storm / Earth Power
+Landorus-Therian: Substitute / Earthquake
+Tapu Fini: Nature's Madness / Moonblast
+
+BRO FIST:
+Slowbro: Teleport / Future Sight
+Zapdos-Galar: Brave Bird
+Weavile: Beat Up / Knock Off
+Landorus-Therian: Defog / U-turn
+Tapu Koko: Volt Switch / Thunderbolt / Dazzling Gleam
+Melmetal: Ice Punch
+
+PUSHING PJ:
+Ferrothorn: Knock Off
+Tapu Fini: Nature's Madness
+Volcarona: Flamethrower
+Zapdos: Volt Switch / Roost / Defog / Hurricane
+Landorus-Therian: U-turn / Stealth Rock / Earthquake / Toxic
+Weavile: Knock Off / Triple Axel / Ice Shard / Swords Dance
+
+MAX UND MAX:
+Weavile: Icicle Crash / Knock Off
+Zapdos: Roost / Hurricane / Volt Switch / Thunderbolt
+Landorus-Therian: Stone Edge / Knock Off
+Volcanion: Sludge Wave / Flamethrower / Steam Eruption
+Clefable: Trick / Stealth Rock / Soft-Boiled
+Ferrothorn: Leech Seed / Spikes / Thunder Wave
+
+STRESH:
+Urshifu-*: 
+Toxapex: Haze / Recover / Knock Off
+Slowking-Galar: Future Sight / Sludge Bomb / Flamethrower / Scald
+Landorus-Therian: Stealth Rock / U-turn
+Weavile: 
+Corviknight: U-turn
+
+TACE㋛:
+Heatran: Eruption / Earth Power
+Landorus-Therian: Substitute / Earthquake
+Hawlucha: Swords Dance / Close Combat
+Tapu Fini: Nature's Madness / Moonblast
+Nihilego: Stealth Rock / Knock Off / Meteor Beam / Power Gem
+Celesteela: Autotomize / Air Slash
+
+INSULT:
+Landorus-Therian: Swords Dance / Substitute / Gravity / Earthquake
+Clefable: Moonblast / Trick / Stealth Rock / Soft-Boiled
+Tapu Koko: 
+Slowking-Galar: Scald / Slack Off / Calm Mind / Sludge Bomb
+Dragonite: Earthquake / Roost
+Ferrothorn: Knock Off / Spikes / Gyro Ball
+
+OX THE FOX:
+Landorus-Therian: Knock Off / U-turn
+Dragonite: Earthquake / Ice Punch
+Clefable: Soft-Boiled / Thunder Wave / Trick / Moonblast
+Heatran: Flamethrower / Flash Cannon
+Ferrothorn: Spikes / Body Press
+Tapu Koko: Dazzling Gleam / Calm Mind / Roost / Thunderbolt
+
+BRO FIST:
+Zapdos-Galar: Close Combat
+Mew: Spikes / Volt Switch / Ice Beam / Soft-Boiled
+Heatran: Stealth Rock / Magma Storm / Earth Power
+Landorus-Therian: Earthquake / U-turn / Toxic
+Tapu Fini: Taunt / Calm Mind / Draining Kiss / Scald
+Zeraora: Knock Off / Plasma Fists / Bulk Up
+
+PKMN CYPHER 2013:
+Zeraora: Knock Off / Plasma Fists
+Buzzwole: Poison Jab
+Clefable: Trick / Stealth Rock / Soft-Boiled / Moonblast
+Slowking-Galar: Calm Mind / Sludge Bomb / Slack Off / Scald
+Dragonite: Dragon Dance / Roost
+Ferrothorn: 
+
+VABOH:
+Landorus-Therian: Toxic / U-turn / Earthquake
+Tapu Lele: 
+Ferrothorn: Leech Seed / Stealth Rock / Knock Off
+Tapu Fini: Nature's Madness / Moonblast / Taunt
+Dragonite: Dragon Dance / Earthquake
+Weavile: Low Kick
+
+MIND GAMING:
+Tornadus-Therian: Heat Wave / U-turn / Hurricane
+Landorus-Therian: Defog
+Volcanion: Steam Eruption
+Zeraora: Knock Off
+Melmetal: Substitute / Iron Defense / Body Press / Double Iron Bash
+Corviknight: Body Press / Roost / Defog / U-turn
+
+GTCHA:
+Weavile: 
+Tornadus-Therian: U-turn
+Landorus-Therian: 
+Ferrothorn: 
+Heatran: Eruption / Earth Power
+Volcanion: Sludge Wave / Steam Eruption
+
+ROBJR:
+Victini: V-create / Bolt Strike / U-turn / Trick
+Tapu Koko: Volt Switch
+Weavile: Knock Off
+Landorus-Therian: 
+Tapu Fini: Nature's Madness / Moonblast
+Ferrothorn: 
+
+TALAH☭:
+Heatran: Earth Power
+Tapu Fini: Moonblast
+Dragonite: 
+Landorus-Therian: U-turn / Stealth Rock
+Weavile: Beat Up
+Kartana: Swords Dance
+
+WARUMFELIX:
+Zeraora: Close Combat / Plasma Fists
+Nihilego: Stealth Rock / Meteor Beam / Power Gem
+Celesteela: 
+Heatran: 
+Landorus-Therian: Knock Off / Explosion
+Tapu Fini: Nature's Madness / Moonblast
+
+TWO HEADED TIGER:
+Toxapex: Scald / Knock Off / Recover
+Weavile: Triple Axel / Knock Off
+Corviknight: U-turn / Defog / Roost / Body Press
+Rotom-Heat: 
+Slowking-Galar: Future Sight / Whirlpool / Flamethrower / Sludge Bomb
+Landorus-Therian: Stealth Rock
+
+LERU:
+Weavile: Swords Dance / Ice Shard / Knock Off
+Blacephalon: Shadow Ball
+Zapdos: Hurricane / U-turn / Thunderbolt
+Ferrothorn: Stealth Rock / Knock Off / Thunder Wave
+Landorus-Therian: Defog / U-turn / Earthquake
+Tapu Fini: Scald / Draining Kiss
+
+ROSEYBEAR:
+Garchomp: Scale Shot / Swords Dance / Earthquake
+Tapu Fini: Nature's Madness / Whirlpool / Moonblast
+Melmetal: Ice Punch
+Necrozma: Meteor Beam
+Zapdos: Hurricane / Thunderbolt / Roost / Heat Wave
+Weavile: Knock Off
+
+TROSKO:
+Tapu Koko: Roost / U-turn / Dazzling Gleam / Thunderbolt
+Volcanion: Steam Eruption
+Ferrothorn: Stealth Rock / Gyro Ball / Leech Seed
+Tornadus-Therian: U-turn / Icy Wind / Knock Off
+Toxapex: Toxic Spikes / Recover / Scald
+Landorus-Therian: Earthquake
+
+MNCMT:
+Heatran: Stealth Rock / Magma Storm / Earth Power
+Kartana: Swords Dance / Knock Off / Sacred Sword / Leaf Blade
+Landorus-Therian: Toxic
+Tapu Fini: Whirlpool / Moonblast / Nature's Madness
+Weavile: Swords Dance / Knock Off
+Zeraora: Knock Off / Plasma Fists
+
+MICHAELDERBESTE2:
+Tapu Lele: Psychic
+Landorus-Therian: Knock Off / Earthquake
+Corviknight: U-turn / Roost / Body Press
+Tyranitar: Stone Edge
+Blacephalon: 
+Toxapex: Knock Off / Recover / Poison Jab / Haze
+
+64 SQUARES:
+Celesteela: Meteor Beam / Air Slash
+Hawlucha: 
+Rillaboom: Knock Off / Swords Dance / Drain Punch / Grassy Glide
+Landorus-Therian: Stealth Rock / Knock Off
+Zeraora: 
+Urshifu-*: 
+
+STORM ZONE:
+Tapu Fini: Moonblast
+Heatran: Stealth Rock / Magma Storm
+Landorus-Therian: Defog / Knock Off
+Weavile: Triple Axel / Knock Off
+Nidoking: Ice Beam
+Dragonite: Roost / Dragon Dance / Ice Punch / Earthquake
+
+1 TRUE LYCAN:
+Rillaboom: Knock Off / U-turn / Grassy Glide
+Magnezone: Volt Switch / Thunderbolt / Flash Cannon
+Clefable: 
+Dragonite: Dragon Dance
+Landorus-Therian: Earthquake / U-turn
+Tornadus-Therian: Heat Wave / Knock Off
+
+LUTHIER:
+Jirachi: U-turn / Stealth Rock / Iron Head
+Weavile: Triple Axel / Knock Off / Ice Shard
+Tapu Lele: Moonblast
+Magnezone: Toxic / Iron Defense
+Landorus-Therian: Knock Off / U-turn
+Tapu Fini: 
+
+EL TFT MAINER:
+Nihilego: Meteor Beam
+Kartana: Swords Dance / Endure / Knock Off
+Celesteela: Autotomize / Meteor Beam / Fire Blast / Air Slash
+Mew: Nasty Plot / Psychic
+Landorus-Therian: 
+Urshifu-*: 
+
+ETERNAL SPIRIT:
+Clefable: Stealth Rock / Thunder
+Dragonite: Dragon Dance
+Ferrothorn: Spikes / Knock Off / Leech Seed / Gyro Ball
+Landorus-Therian: U-turn
+Volcarona: Quiver Dance / Fire Blast
+Zeraora: Close Combat
+
+EEVEETOTHEN00B:
+Pelipper: U-turn
+Scizor: 
+Volcanion: Steam Eruption / Earth Power
+Landorus-Therian: U-turn
+Melmetal: Thunder Punch
+Kingdra: Flip Turn / Scald
+
+SOY MIGUEL JORDAN:
+Volcanion: Steam Eruption
+Ninetales-Alola: Hypnosis
+Corviknight: U-turn
+Arctozolt: Bolt Beak / Substitute / Low Kick / Blizzard
+Landorus-Therian: 
+Tornadus-Therian: U-turn / Hurricane / Heat Wave / Knock Off
+
+SEPARATION:
+Volcanion: Sludge Bomb
+Ninetales-Alola: Hypnosis
+Corviknight: Body Press / Defog / U-turn
+Arctozolt: Blizzard / Low Kick
+Landorus-Therian: 
+Tornadus-Therian: U-turn / Heat Wave / Knock Off
+
+LEO:
+Zapdos: Hurricane / Volt Switch / Thunderbolt / Roost
+Weavile: Beat Up
+Kartana: Knock Off / Smart Strike
+Landorus-Therian: Stealth Rock
+Volcanion: Sludge Bomb / Flamethrower
+Melmetal: 
+
+SEPARATION:
+Kartana: Sacred Sword
+Tapu Fini: Moonblast / Taunt
+Moltres-Galar: Fiery Wrath
+Dragapult: Dragon Darts / Flamethrower
+Landorus-Therian: Stealth Rock / Earthquake / Knock Off
+Volcarona: Quiver Dance / Giga Drain
+
+1 TRUE LYCAN:
+Arctozolt: Blizzard / Substitute / Bolt Beak
+Ninetales-Alola: Freeze-Dry
+Weavile: Knock Off / Ice Shard
+Corviknight: 
+Volcanion: Steam Eruption
+Landorus-Therian: Earthquake / Defog
+
+ETERNAL SPIRIT:
+Dragonite: Dragon Dance / Extreme Speed
+Ferrothorn: Knock Off / Spikes / Leech Seed
+Landorus-Therian: Stealth Rock
+Rotom-Wash: Will-O-Wisp / Hydro Pump
+Volcarona: Quiver Dance / Fire Blast
+Weavile: Swords Dance / Icicle Crash / Ice Shard
+
+SWITCHBLADESS:
+Blacephalon: Flamethrower / Trick
+Weavile: Ice Shard
+Landorus-Therian: Earthquake / U-turn
+Ferrothorn: Stealth Rock
+Rotom-Wash: Volt Switch / Will-O-Wisp / Pain Split / Hydro Pump
+Dragapult: Shadow Ball / Surf
+
+STORM ZONE IS DAD:
+Ninetales-Alola: Aurora Veil
+Heatran: 
+Dragapult: Dragon Dance
+Scizor: Swords Dance / Knock Off / Bullet Punch
+Garchomp: Swords Dance / Scale Shot / Aqua Tail
+Cloyster: Shell Smash / Rock Blast / Icicle Spear
+
+MNCMT:
+Landorus-Therian: 
+Rotom-Wash: Will-O-Wisp
+Ferrothorn: Power Whip / Leech Seed / Body Press
+Moltres-Galar: Fiery Wrath
+Weavile: Low Kick / Ice Shard
+Blacephalon: 
+
+WARUMFELIX:
+Zeraora: Bulk Up / Plasma Fists
+Nihilego: Meteor Beam / Grass Knot / Power Gem
+Kartana: Knock Off / Leaf Blade / Sacred Sword
+Heatran: Stealth Rock / Will-O-Wisp / Earth Power / Magma Storm
+Landorus-Therian: U-turn / Explosion
+Tapu Fini: Nature's Madness / Taunt / Moonblast
+
+LEO:
+Skarmory: Roost / Spikes / Body Press
+Hippowdon: Slack Off / Stealth Rock
+Tapu Koko: Dazzling Gleam / Thunderbolt / Calm Mind / Roost
+Reuniclus: Psyshock / Focus Blast
+Toxapex: Scald / Recover
+Tornadus-Therian: U-turn / Knock Off
+
+NIKO:
+Weavile: 
+Dragonite: Roost / Dragon Dance / Ice Punch / Earthquake
+Volcanion: Steam Eruption / Earth Power
+Landorus-Therian: U-turn / Earthquake
+Ferrothorn: Stealth Rock / Gyro Ball
+Tapu Fini: Substitute / Draining Kiss
+
+EEVEETOTHEN00B:
+Volcarona: Quiver Dance / Flamethrower / Psychic / Roost
+Slowking: Teleport / Scald
+Kommo-o: Stealth Rock
+Landorus-Therian: Toxic
+Tapu Koko: Toxic / Roost / U-turn
+Kartana: Knock Off / Sacred Sword / Synthesis / Leaf Blade
+
+EL TFT MAINER:
+Landorus-Therian: Toxic / Defog / U-turn
+Heatran: Magma Storm / Flash Cannon / Earth Power
+Ferrothorn: Body Press / Leech Seed / Spikes
+Clefable: Thunder Wave / Moonblast / Soft-Boiled
+Blacephalon: Flamethrower
+Weavile: 
+
+LERU:
+Tapu Koko: Thunderbolt / Dazzling Gleam
+Weavile: Icicle Crash
+Victini: U-turn / Power-Up Punch
+Urshifu-*: 
+Landorus-Therian: Stealth Rock / Toxic / Earthquake
+Ferrothorn: Spikes / Knock Off
+
+MICHAELDERBESTE2:
+Slowking-Galar: Future Sight / Psyshock
+Landorus-Therian: U-turn / Stone Edge / Superpower / Earthquake
+Ferrothorn: Knock Off / Stealth Rock
+Clefable: Flamethrower / Calm Mind / Soft-Boiled / Moonblast
+Rotom-Wash: Volt Switch
+Weavile: Swords Dance / Triple Axel
+
+EZ:
+Dragapult: U-turn / Shadow Ball
+Clefable: Knock Off / Wish / Moonblast
+Heatran: Eruption
+Rotom-Wash: Volt Switch / Thunderbolt / Pain Split
+Melmetal: Toxic / Protect / Earthquake
+Landorus-Therian: Defog
+
+LACS EN ESE ESE:
+Gyarados: Dragon Dance / Waterfall
+Heatran: Stealth Rock / Magma Storm / Eruption
+Garchomp: 
+Mew: Nasty Plot / Psyshock
+Zapdos: Substitute / Charge Beam
+Weavile: Swords Dance / Knock Off / Ice Shard
+
+LUTHIER:
+Volcarona: 
+Toxapex: Knock Off / Haze / Recover
+Ferrothorn: Stealth Rock
+Landorus-Therian: 
+Weavile: Knock Off / Ice Shard
+Dragonite: Dragon Dance / Roost / Ice Punch / Earthquake
+
+INSULT:
+Garchomp: Swords Dance / Aqua Tail
+Buzzwole: Close Combat / Roost / Ice Punch / Earthquake
+Ferrothorn: Leech Seed / Stealth Rock / Knock Off / Iron Head
+Zapdos: Volt Switch / Defog / Roost / Hurricane
+Blacephalon: Flamethrower
+Tyranitar: Stone Edge
+
+RUFT:
+Magnezone: 
+Tornadus-Therian: U-turn / Icy Wind / Knock Off / Hurricane
+Landorus-Therian: Toxic / U-turn / Earthquake
+Tapu Fini: Calm Mind / Scald
+Nihilego: Stealth Rock / Meteor Beam
+Melmetal: Toxic / Protect / Earthquake
+
+MAX UND MAX:
+Zeraora: Close Combat
+Nihilego: Stealth Rock
+Landorus-Therian: Knock Off / U-turn / Earthquake
+Tapu Fini: Nature's Madness
+Heatran: 
+Celesteela: Autotomize / Meteor Beam / Air Slash
+
+BRO FIST:
+Jirachi: Stealth Rock / Iron Head
+Weavile: Knock Off / Triple Axel
+Magnezone: 
+Landorus-Therian: U-turn / Knock Off
+Tapu Lele: Psychic / Focus Blast
+Tapu Fini: Scald / Calm Mind
+
+MIND GAMING:
+Slowking-Galar: Future Sight / Sludge Bomb
+Weavile: 
+Landorus-Therian: U-turn / Defog / Toxic
+Toxapex: 
+Blacephalon: Shadow Ball / Flamethrower
+Corviknight: Roost
+
+OX THE FOX:
+Tapu Fini: Whirlpool
+Melmetal: Thunder Punch / Superpower / Double Iron Bash
+Landorus-Therian: U-turn
+Dragapult: Shadow Ball / Fire Blast
+Buzzwole: Close Combat
+Heatran: Stealth Rock / Earth Power / Eruption
+
+STRESH:
+Weavile: Beat Up / Knock Off / Ice Shard
+Landorus-Therian: U-turn
+Slowbro: Teleport / Body Press
+Tornadus-Therian: Defog / Knock Off / U-turn
+Melmetal: Double Iron Bash
+Garchomp: Stealth Rock / Aqua Tail
+
+ROBJR:
+Volcanion: Steam Eruption / Sludge Bomb
+Tapu Lele: Psyshock / Thunderbolt
+Weavile: Knock Off
+Landorus-Therian: U-turn
+Ferrothorn: Stealth Rock
+Dragonite: Dragon Dance / Earthquake
+
+LAST GAME NAT:
+Dragonite: 
+Tapu Koko: Volt Switch / Dazzling Gleam / Thunderbolt
+Buzzwole: Ice Punch
+Heatran: Flash Cannon
+Ferrothorn: Iron Head / Spikes
+Garchomp: Stealth Rock / Whirlpool / Earthquake / Toxic
+
+VABOH:
+Ninetales-Alola: Aurora Veil / Blizzard
+Arctozolt: Substitute / Blizzard
+Heatran: Earth Power / Will-O-Wisp / Stealth Rock
+Garchomp: Swords Dance / Scale Shot / Earthquake
+Blaziken: 
+Dragapult: Phantom Force
+
+TALAH☭:
+Tyranitar: Superpower
+Corviknight: Defog / Body Press / Roost
+Tornadus-Therian: Toxic / Knock Off / U-turn
+Hippowdon: Stealth Rock / Slack Off / Earthquake
+Toxapex: Recover
+Dracozolt: Draco Meteor
+
+RAIDERS SZN OVER:
+Landorus-Therian: U-turn
+Volcanion: Steam Eruption / Earth Power / Flamethrower
+Ferrothorn: Stealth Rock / Leech Seed
+Heatran: Magma Storm / Eruption / Earth Power
+Tornadus-Therian: Knock Off / Hurricane / U-turn
+Weavile: 
+
+GTCHA:
+Corviknight: Defog / U-turn
+Slowking-Galar: Future Sight / Earthquake / Sludge Bomb
+Weavile: Knock Off / Triple Axel / Ice Shard
+Landorus-Therian: U-turn / Toxic / Earthquake
+Toxapex: Scald / Knock Off / Recover
+Blacephalon: Shadow Ball
+
+TROSKO:
+Slowking-Galar: Flamethrower / Future Sight
+Tornadus-Therian: Toxic / Heat Wave / U-turn
+Buzzwole: Roost
+Hydreigon: Roost / Dark Pulse
+Heatran: Magma Storm / Stealth Rock / Earth Power
+Zeraora: Knock Off / Bulk Up / Plasma Fists
+
+GTCHA:
+Buzzwole: Roost / Ice Punch / Close Combat
+Clefable: Thunder Wave / Knock Off / Moonblast / Soft-Boiled
+Ferrothorn: Stealth Rock / Knock Off / Iron Head / Leech Seed
+Heatran: 
+Rotom-Wash: Will-O-Wisp / Volt Switch / Hydro Pump
+Zeraora: Plasma Fists
+
+WARUMFELIX:
+Urshifu-*: 
+Tornadus-Therian: U-turn / Knock Off
+Slowking-Galar: Future Sight / Sludge Bomb / Ice Beam
+Ferrothorn: Stealth Rock / Knock Off / Leech Seed / Gyro Ball
+Landorus-Therian: U-turn / Toxic / Earthquake
+Tapu Fini: Nature's Madness / Whirlpool / Moonblast
+
+RAIDERS SZN OVER:
+Nidoking: 
+Slowbro: 
+Heatran: Stealth Rock
+Landorus-Therian: 
+Buzzwole: Earthquake / Ice Punch / Roost
+Zeraora: Knock Off
+
+LERU:
+Dragapult: Dragon Darts
+Landorus-Therian: Stealth Rock / U-turn
+Weavile: Knock Off
+Kartana: 
+Melmetal: 
+Blacephalon: Calm Mind
+
+NIKO:
+Rillaboom: Knock Off / U-turn / Grassy Glide
+Dragonite: Earthquake
+Heatran: Stealth Rock
+Mew: Triple Axel
+Landorus-Therian: 
+Tapu Fini: Scald / Draining Kiss
+
+PKMN CYPHER 2013:
+Buzzwole: Thunder Punch
+Slowbro: Teleport / Future Sight
+Nidoking: Earth Power / Sludge Wave / Ice Beam
+Blissey: 
+Corviknight: U-turn / Defog
+Zeraora: Plasma Fists / Close Combat
+
+TALAH☭:
+Landorus-Therian: Earthquake / Swords Dance / Stone Edge
+Ferrothorn: Leech Seed / Stealth Rock / Thunder Wave
+Tapu Koko: U-turn / Thunderbolt / Roost
+Dragonite: Dragon Dance / Roost / Superpower
+Buzzwole: Earthquake / Close Combat / Leech Life
+Tapu Fini: Nature's Madness / Knock Off
+
+OX THE FOX:
+Weavile: Triple Axel / Ice Shard / Knock Off
+Garchomp: Stealth Rock / Protect
+Corviknight: U-turn / Defog
+Urshifu-*: 
+Melmetal: Superpower
+Slowking-Galar: Future Sight / Scald / Sludge Bomb / Flamethrower
+
+TROSKO:
+Tapu Koko: Dazzling Gleam / Thunderbolt
+Ferrothorn: Knock Off
+Dragonite: Dragon Dance / Ice Punch / Roost / Earthquake
+Magnezone: Iron Defense / Body Press
+Tapu Fini: 
+Landorus-Therian: Earthquake / Stealth Rock
+
+MAX UND MAX:
+Weavile: Knock Off / Triple Axel / Ice Shard
+Garchomp: Stealth Rock / Swords Dance / Aqua Tail
+Volcarona: Fiery Dance / Quiver Dance / Psychic
+Zapdos: Hurricane / Roost / Volt Switch
+Tapu Fini: Nature's Madness / Moonblast
+Ferrothorn: Leech Seed / Spikes
+
+OUR 9TH GAME:
+Tapu Koko: Roost / Dazzling Gleam / Thunderbolt / Volt Switch
+Ferrothorn: Stealth Rock / Leech Seed
+Landorus-Therian: Earthquake / Swords Dance
+Tornadus-Therian: Knock Off / U-turn / Superpower
+Tapu Fini: Trick / Surf
+Buzzwole: Roost / Close Combat / Thunder Punch
+
+AJNA:
+Tapu Fini: Nature's Madness / Whirlpool / Moonblast
+Melmetal: Double Iron Bash / Superpower / Ice Punch
+Dragapult: Draco Meteor / Flamethrower / Shadow Ball
+Buzzwole: Close Combat / Ice Punch
+Landorus-Therian: U-turn / Defog / Earthquake
+Heatran: Eruption / Magma Storm / Stealth Rock
+
+MICHAELDERBESTE2:
+Nihilego: Pain Split / Meteor Beam
+Tapu Fini: Nature's Madness / Whirlpool / Moonblast
+Ferrothorn: Stealth Rock / Gyro Ball
+Landorus-Therian: Toxic / U-turn / Defog
+Zapdos: Thunderbolt
+Weavile: Low Kick
+
+SUAPAH:
+Tyranitar: Stealth Rock / Earthquake / Ice Beam
+Excadrill: Toxic / Swords Dance / Iron Head / Earthquake
+Buzzwole: Roost
+Slowking: Teleport
+Tornadus-Therian: Defog / U-turn / Heat Wave / Toxic
+Volcanion: Sludge Wave / Flamethrower / Steam Eruption
+
+LUTHIER:
+Blacephalon: Shadow Ball
+Tornadus-Therian: U-turn / Knock Off / Heat Wave
+Slowking-Galar: Earthquake / Future Sight / Sludge Bomb
+Corviknight: Defog / Roost / U-turn / Brave Bird
+Landorus-Therian: 
+Toxapex: Knock Off / Recover / Toxic
+
+MIND GAMING:
+Dragonite: Earthquake / Dragon Dance / Ice Punch
+Garchomp: Stealth Rock / Protect
+Heatran: Eruption / Fire Blast / Earth Power
+Ferrothorn: Leech Seed / Knock Off / Spikes
+Tapu Koko: Volt Switch / Thunderbolt
+Buzzwole: Ice Punch / Close Combat
+
+BRO FIST:
+Slowking-Galar: Future Sight / Sludge Bomb / Scald
+Heatran: Stealth Rock / Lava Plume / Earth Power
+Tornadus-Therian: Knock Off / Defog / Toxic / U-turn
+Landorus-Therian: Substitute / Earthquake / Toxic
+Toxapex: Recover / Scald / Haze
+Dragapult: Shadow Ball / Hex
+
+RAIZEN1704:
+Tapu Koko: Thunderbolt
+Dragonite: Earthquake / Ice Punch / Dragon Dance / Roost
+Victini: Encore / Bolt Strike / U-turn
+Ferrothorn: Spikes / Knock Off
+Landorus-Therian: Stealth Rock / Toxic / U-turn
+Clefable: Trick / Moonblast
+
+THE DYNOFRIENDS:
+Buzzwole: Close Combat / Roost
+Clefable: 
+Ferrothorn: Knock Off / Stealth Rock
+Heatran: Flash Cannon
+Rotom-Wash: Nasty Plot / Hydro Pump / Pain Split / Thunderbolt
+Zeraora: Knock Off
+
+INSULT:
+Tyranitar: 
+Excadrill: Iron Head / Rock Slide
+Dracozolt: Substitute / Dragon Rush / Fire Spin / Bolt Beak
+Landorus-Therian: Knock Off / U-turn
+Tornadus-Therian: Knock Off / Hurricane / Icy Wind
+Scizor: Roost / U-turn
+
+SEPARATION:
+Zapdos: Substitute / Hurricane / Thunderbolt / Roost
+Toxapex: Knock Off
+Landorus-Therian: U-turn / Defog / Toxic
+Weavile: 
+Slowking-Galar: Future Sight / Sludge Bomb / Flamethrower
+Scizor: Roost / Defog
+
+TACE㋛:
+Clefable: Flamethrower / Calm Mind / Soft-Boiled / Moonblast
+Zapdos: Roost / Volt Switch
+Garchomp: Toxic / Stealth Rock / Flamethrower / Earthquake
+Weavile: Knock Off
+Ferrothorn: Spikes / Leech Seed / Knock Off / Gyro Ball
+Tapu Fini: Nature's Madness
+
+EZ:
+Urshifu-*: 
+Toxapex: 
+Slowking-Galar: Future Sight / Sludge Bomb
+Landorus-Therian: U-turn / Stealth Rock
+Weavile: Ice Shard
+Corviknight: U-turn / Body Press
+
+ETERNAL SPIRIT:
+Dragonite: Dragon Dance / Superpower
+Kartana: Leaf Blade
+Landorus-Therian: Stealth Rock / Knock Off
+Melmetal: Double Iron Bash / Protect / Thunder Punch
+Tapu Fini: Nature's Madness / Whirlpool / Moonblast
+Weavile: Swords Dance
+
+STORM ZONE:
+Kartana: 
+Weavile: Icicle Crash / Beat Up
+Landorus-Therian: Stealth Rock / Earthquake / Imprison / U-turn
+Melmetal: Double Iron Bash / Thunder Punch
+Dragapult: Shadow Ball
+Dragonite: Dragon Dance / Earthquake / Roost / Ice Punch
+
+HSA:
+Volcanion: Steam Eruption
+Ninetales-Alola: 
+Corviknight: Defog / Roost / U-turn
+Arctozolt: Blizzard / Low Kick / Bolt Beak
+Landorus-Therian: 
+Tornadus-Therian: U-turn
+
+MNCMT:
+Jirachi: Stealth Rock
+Weavile: Triple Axel / Knock Off
+Tapu Lele: Focus Blast / Psychic
+Magnezone: Iron Defense / Body Press
+Landorus-Therian: Earthquake / Knock Off / U-turn / Defog
+Tapu Fini: Calm Mind / Draining Kiss
+
+LEO:
+Landorus-Therian: Defog / U-turn
+Volcanion: Steam Eruption / Sludge Bomb
+Ferrothorn: Leech Seed / Stealth Rock / Knock Off
+Heatran: Earth Power / Magma Storm
+Tornadus-Therian: U-turn
+Weavile: Triple Axel / Knock Off
+
+THE ASIANCY:
+Tapu Lele: Psyshock
+Magnezone: Thunderbolt / Body Press
+Landorus-Therian: U-turn / Defog / Stealth Rock
+Volcanion: 
+Weavile: Knock Off
+Dragonite: Dragon Dance / Ice Punch / Earthquake
+
+1 TRUE LYCAN:
+Toxapex: Toxic Spikes / Haze / Scald
+Tornadus-Therian: Knock Off / Hurricane
+Heatran: Stealth Rock / Taunt / Magma Storm
+Garchomp: Aqua Tail / Earthquake / Swords Dance
+Corviknight: 
+Tapu Koko: 
+
+JOYA:
+Tyranitar: Ice Beam / Stealth Rock / Rock Blast / Earthquake
+Buzzwole: Ice Punch
+Excadrill: Earthquake / Iron Head
+Volcanion: Earth Power / Steam Eruption / Flamethrower
+Tornadus-Therian: Knock Off / U-turn
+Slowking: Scald / Teleport
+
+STAREAL:
+Landorus-Therian: Toxic / U-turn
+Volcanion: 
+Ferrothorn: Stealth Rock / Leech Seed / Knock Off
+Heatran: Flash Cannon / Earth Power / Eruption
+Tornadus-Therian: Knock Off / Hurricane / U-turn
+Weavile: Swords Dance / Knock Off / Triple Axel
+
+CLARK_03:
+Weavile: Knock Off / Triple Axel
+Kartana: Leaf Blade / Knock Off / Synthesis
+Landorus-Therian: U-turn / Earthquake
+Buzzwole: Ice Punch / Earthquake / Roost / Close Combat
+Heatran: Lava Plume / Heavy Slam / Stealth Rock
+Slowking: Teleport
+
+REJE:
+Landorus-Therian: Toxic / Earthquake
+Urshifu-*: 
+Aegislash: Shadow Ball
+Ferrothorn: Body Press / Stealth Rock / Leech Seed / Power Whip
+Weavile: Knock Off / Triple Axel
+Dragonite: Roost
+
+MNCMT:
+Volcanion: Steam Eruption / Earth Power
+Ninetales-Alola: Aurora Veil
+Corviknight: U-turn
+Arctozolt: Blizzard / Bolt Beak / Low Kick
+Landorus-Therian: Toxic / U-turn / Earthquake
+Tornadus-Therian: Knock Off / Hurricane / U-turn
+
+ROSEYBEAR:
+Toxapex: Poison Jab / Knock Off
+Rhyperior: Swords Dance / Rock Blast
+Tornadus-Therian: Knock Off / U-turn
+Slowbro: Teleport
+Tapu Koko: Dazzling Gleam / Thunderbolt
+Heatran: Magma Storm
+
+INSULT:
+Garchomp: Stealth Rock / Earthquake / Toxic
+Corviknight: U-turn / Body Press
+Landorus-Therian: Earthquake / U-turn / Knock Off / Superpower
+Tapu Koko: Nature's Madness / Volt Switch / Roost / Dazzling Gleam
+Weavile: Knock Off / Low Kick
+Toxapex: Scald / Haze / Recover / Toxic
+
+LEO:
+Rotom-Wash: Will-O-Wisp / Volt Switch / Pain Split / Hydro Pump
+Clefable: Wish / Moonblast / Soft-Boiled
+Landorus-Therian: Toxic / U-turn / Earthquake
+Kartana: Swords Dance / Knock Off / Leaf Blade
+Heatran: Stealth Rock / Magma Storm / Earth Power
+Weavile: Icicle Crash / Knock Off
+
+SAGE:
+Garchomp: Stealth Rock / Swords Dance / Scale Shot
+Weavile: Knock Off / Icicle Crash
+Heatran: Earth Power / Magma Storm
+Tornadus-Therian: Nasty Plot / Hyper Beam
+Tapu Fini: Nature's Madness / Surf
+Kartana: Sacred Sword
+
+WATASHI:
+Zapdos: Thunderbolt / Roost
+Toxapex: Knock Off / Scald
+Landorus-Therian: 
+Weavile: Knock Off / Triple Axel
+Slowking-Galar: Sludge Bomb / Scald
+Scizor: Defog / Roost / U-turn
+
+IPF:
+Zeraora: Knock Off / Close Combat / Bulk Up
+Landorus-Therian: Toxic / U-turn / Defog
+Heatran: 
+Blacephalon: Shadow Ball
+Tornadus-Therian: Knock Off / Nasty Plot / Hurricane
+Tapu Fini: Moonblast
+
+EZ:
+Tornadus-Therian: Knock Off / U-turn
+Landorus-Therian: Earthquake / Toxic / U-turn
+Slowbro: Future Sight / Teleport
+Melmetal: Protect / Double Iron Bash
+Garchomp: Swords Dance / Aqua Tail / Stealth Rock / Earthquake
+Weavile: Beat Up / Knock Off / Triple Axel
+
+SOY MIGUEL JORDAN:
+Volcanion: Steam Eruption / Sludge Bomb
+Ninetales-Alola: Hypnosis / Freeze-Dry
+Corviknight: Defog / U-turn
+Arctozolt: Blizzard
+Landorus-Therian: Defog / Toxic / U-turn
+Tornadus-Therian: Knock Off
+
+SUAPAH:
+Blacephalon: Flamethrower
+Landorus-Therian: U-turn
+Zapdos: Hurricane / Roost / U-turn / Discharge
+Ferrothorn: Knock Off / Stealth Rock / Leech Seed
+Tapu Fini: Nature's Madness
+Urshifu-*: 
+
+SEPARATION:
+Ninetales-Alola: 
+Dragapult: Flamethrower / Dragon Darts / Dragon Dance
+Heatran: 
+Garchomp: 
+Cloyster: 
+Scizor: 
+
+BRO FIST:
+Dragonite: 
+Victini: V-create
+Volcarona: 
+Landorus-Therian: Stealth Rock / Explosion
+Kommo-o: 
+Kartana: Knock Off / Leaf Blade
+
+ETERNAL SPIRIT:
+Corviknight: U-turn / Roost
+Dragapult: Substitute / Thunder / Hex
+Landorus-Therian: Stealth Rock / Stone Edge
+Mamoswine: Icicle Crash / Earthquake
+Toxapex: Knock Off / Toxic Spikes / Recover
+Hydreigon: Nasty Plot / Dark Pulse / Fire Blast / Roost
+
+MIND GAMING:
+Slowbro: Future Sight / Teleport / Body Press
+Weavile: Knock Off
+Heatran: Stealth Rock / Earth Power / Taunt / Magma Storm
+Tornadus-Therian: Knock Off / U-turn / Hurricane
+Landorus-Therian: Defog
+Melmetal: Double Iron Bash / Thunder Wave
+
+CORAZAN:
+Suicune: Scald / Protect
+Ferrothorn: Stealth Rock
+Landorus-Therian: U-turn
+Nihilego: Meteor Beam / Power Gem
+Weavile: Knock Off
+Dragapult: Shadow Ball / U-turn
+
+LUTHIER:
+Landorus-Therian: Earthquake / U-turn
+Corviknight: U-turn
+Volcanion: Steam Eruption / Flamethrower
+Ninetales-Alola: Blizzard
+Arctozolt: Blizzard
+Tornadus-Therian: Knock Off / U-turn / Heat Wave / Superpower
+
+RUFT:
+Ferrothorn: Leech Seed / Knock Off / Spikes
+Clefable: Stealth Rock / Moonblast / Soft-Boiled / Thunder Wave
+Dragonite: Dragon Dance / Roost
+Buzzwole: Ice Punch / Close Combat
+Landorus-Therian: Toxic / Defog
+Zapdos: Substitute / Roost / Discharge / Hurricane
+
+TROSKO:
+Scizor: Bullet Punch / Roost / Swords Dance
+Tornadus-Therian: Knock Off / U-turn / Icy Wind
+Magnezone: Volt Switch / Thunderbolt / Flash Cannon
+Landorus-Therian: Stone Edge / Bulk Up
+Kommo-o: Stealth Rock / Body Press / Toxic
+Rotom-Wash: Defog / Volt Switch / Pain Split / Will-O-Wisp
+
+MICHAELDERBESTE2:
+Corviknight: Substitute / Bulk Up / Roost
+Clefable: Soft-Boiled / Stealth Rock
+Tornadus-Therian: Toxic / Defog / U-turn
+Toxapex: Knock Off
+Dragonite: Ice Beam / Roost / Earthquake / Heal Bell
+Gastrodon: Recover / Scald / Earthquake
+
+TALAH☭:
+Tyranitar: Stealth Rock / Flamethrower / Rock Blast / Toxic
+Slowking: Future Sight / Teleport / Scald
+Tornadus-Therian: Knock Off / U-turn / Heat Wave / Defog
+Excadrill: Iron Head / Rapid Spin / Swords Dance
+Buzzwole: Close Combat
+Volcanion: Flamethrower / Steam Eruption / Earth Power / Sludge Wave
+
+MAX UND MAX:
+Weavile: Knock Off / Ice Shard / Triple Axel
+Kartana: Knock Off / Leaf Blade
+Landorus-Therian: U-turn
+Buzzwole: Roost / Close Combat
+Heatran: Stealth Rock / Heavy Slam
+Slowking: Future Sight / Scald
+
+GTCHA:
+Heatran: Stealth Rock / Taunt
+Tapu Fini: Trick / Moonblast
+Kartana: Knock Off / Sacred Sword
+Landorus-Therian: Swords Dance / Stone Edge
+Hawlucha: Close Combat / Substitute / Swords Dance / Acrobatics
+Moltres-Galar: Fiery Wrath / Nasty Plot / Hurricane
+
+100PERCENTPUREGARB:
+Landorus-Therian: 
+Corviknight: Defog / U-turn
+Ninetales-Alola: Aurora Veil
+Arctozolt: Blizzard / Bolt Beak
+Volcanion: Steam Eruption
+Tornadus-Therian: Knock Off
+
+OX THE FRAUDE:
+Nidoking: Thunderbolt / Ice Beam
+Dragonite: Earthquake
+Shuckle: Stealth Rock / Sticky Web / Final Gambit
+Zapdos-Galar: Bulk Up / Agility / Thunderous Kick / Brave Bird
+Bisharp: 
+Kartana: 
+
+PKMN CYPHER 2013:
+Weavile: Icicle Crash / Swords Dance / Knock Off
+Dragonite: Dragon Dance / Dual Wingbeat / Roost
+Volcanion: 
+Landorus-Therian: U-turn
+Ferrothorn: Stealth Rock / Knock Off
+Tapu Fini: Calm Mind / Scald
+
+STRESH:
+Heatran: Heavy Slam
+Rotom-Wash: Thunderbolt / Volt Switch / Hydro Pump
+Landorus-Therian: Earthquake / Knock Off / U-turn
+Ferrothorn: Leech Seed / Gyro Ball
+Weavile: Ice Shard
+Clefable: Trick / Stealth Rock / Moonblast
+
+MICHAELDERBESTIE:
+Omastar: Hydro Pump / Earth Power / Meteor Beam
+Clefable: Wish / Protect / Moonblast / Teleport
+Pelipper: U-turn / Roost / Scald
+Ferrothorn: Stealth Rock / Spikes / Knock Off
+Zapdos: Thunder / Roost / Weather Ball
+Barraskewda: Flip Turn / Close Combat
+
+MICHAELDERBESTE2:
+Tornadus-Therian: U-turn / Knock Off
+Heatran: Magma Storm / Taunt / Earth Power / Protect
+Landorus-Therian: Toxic / U-turn / Defog / Earthquake
+Toxapex: Toxic / Recover
+Ferrothorn: Stealth Rock / Thunder Wave / Iron Head
+Dragapult: Shadow Ball / Hex
+
+RAIZEN1704:
+Weavile: Knock Off
+Zapdos: Toxic / Heat Wave / Roost / Discharge
+Landorus-Therian: Earthquake / U-turn / Defog
+Dragonite: Dual Wingbeat / Roost / Earthquake
+Clefable: Stealth Rock / Knock Off / Moonblast / Soft-Boiled
+Melmetal: Superpower / Double Iron Bash
+
+PKMN CYPHER 2013:
+Buzzwole: Roost / Close Combat / Ice Punch
+Clefable: Thunder Wave / Knock Off / Moonblast / Soft-Boiled
+Ferrothorn: 
+Heatran: Stealth Rock / Magma Storm / Taunt
+Rotom-Wash: Volt Switch / Hydro Pump / Pain Split / Will-O-Wisp
+Zeraora: Knock Off / Plasma Fists / Bulk Up
+
+GTCHA:
+Ninetales-Alola: 
+Dragapult: Dragon Dance / Flamethrower / Dragon Darts
+Heatran: Stealth Rock
+Garchomp: 
+Cloyster: 
+Scizor: Bullet Punch
+
+LUTHIER:
+Landorus-Therian: Earthquake
+Corviknight: 
+Volcanion: 
+Ninetales-Alola: Aurora Veil
+Arctozolt: Bolt Beak
+Tornadus-Therian: Knock Off / Superpower / U-turn
+
+CLARK_03:
+Weavile: Knock Off / Low Kick / Ice Shard
+Blacephalon: Shadow Ball / Flamethrower / Calm Mind
+Zapdos: Thunderbolt / Hurricane / Roost / U-turn
+Ferrothorn: Knock Off / Power Whip
+Landorus-Therian: Earthquake / Toxic / U-turn
+Tapu Fini: Scald
+
+OX THE FOX:
+Heatran: Toxic / Earth Power / Magma Storm / Heavy Slam
+Rotom-Wash: Volt Switch / Thunderbolt / Pain Split
+Landorus-Therian: Knock Off / Earthquake / U-turn
+Ferrothorn: Spikes / Leech Seed
+Weavile: Ice Shard
+Clefable: Trick
+
+JOYA:
+Nidoking: Earth Power
+Slowbro: Teleport
+Heatran: Toxic
+Landorus-Therian: 
+Buzzwole: Ice Punch / Thunder Punch / Roost / Close Combat
+Zeraora: Knock Off / Plasma Fists / Close Combat
+
+STRESH:
+Weavile: Knock Off / Beat Up / Triple Axel / Ice Shard
+Landorus-Therian: Toxic / U-turn / Earthquake
+Slowbro: Teleport / Future Sight
+Tornadus-Therian: U-turn / Heat Wave
+Melmetal: Toxic / Double Iron Bash
+Garchomp: Stealth Rock / Swords Dance / Earthquake
+
+ROSEYBEAR:
+Garchomp: 
+Necrozma: Stealth Rock / Photon Geyser / Meteor Beam
+Keldeo: Calm Mind / Surf / Secret Sword
+Kartana: Swords Dance / Knock Off / Sacred Sword
+Volcarona: Quiver Dance / Flamethrower
+Mew: Cosmic Power / Body Press / Soft-Boiled / Stored Power
+
+MAX UND MAX:
+Weavile: Knock Off
+Urshifu-*: 
+Landorus-Therian: Knock Off / Stealth Rock / Earthquake
+Corviknight: Body Press
+Magnezone: Toxic
+Slowking: Future Sight / Scald / Slack Off / Teleport
+
+ACRONE:
+Mew: Stealth Rock / Explosion
+Cloyster: Shell Smash
+Volcarona: Fire Blast / Psychic / Quiver Dance
+Garchomp: Earthquake / Aqua Tail
+Bisharp: 
+Zapdos-Galar: U-turn / Brave Bird
+
+TROSKO:
+Gengar: Shadow Ball
+Heatran: Magma Storm / Toxic / Stealth Rock
+Landorus-Therian: Earthquake / Knock Off
+Tapu Koko: Dazzling Gleam
+Ferrothorn: Body Press
+Hydreigon: Dark Pulse
+
+SEPARATION:
+Urshifu-*: 
+Slowking-Galar: Future Sight / Sludge Bomb / Flamethrower / Scald
+Buzzwole: 
+Landorus-Therian: Knock Off / U-turn / Earthquake
+Heatran: Stealth Rock / Toxic / Heavy Slam
+Weavile: Knock Off / Icicle Crash / Ice Shard
+
+AFFAIR:
+Nidoking: Ice Beam / Sludge Wave
+Corviknight: Roost / U-turn / Defog
+Slowbro: Scald / Future Sight / Teleport / Slack Off
+Blissey: Thunder Wave / Seismic Toss / Teleport / Soft-Boiled
+Zeraora: Knock Off / Bulk Up
+Buzzwole: Close Combat / Roost / Ice Punch
+
+BBEEAA:
+Clefable: Calm Mind / Soft-Boiled
+Weavile: Knock Off
+Landorus-Therian: U-turn
+Tapu Koko: Thunderbolt / Toxic / Roost
+Heatran: Stealth Rock / Magma Storm
+Slowbro: Future Sight / Teleport / Scald / Slack Off
+
+TALAH☭:
+Landorus-Therian: Knock Off / Stealth Rock / Explosion
+Ferrothorn: Spikes / Knock Off
+Tapu Koko: Volt Switch / Roost / Dazzling Gleam
+Dragonite: Roost / Superpower
+Buzzwole: 
+Volcarona: Fiery Dance / Quiver Dance / Psychic
+
+SAGE:
+Clefable: Stealth Rock / Trick / Soft-Boiled / Moonblast
+Slowking: Scald / Future Sight / Teleport / Slack Off
+Landorus-Therian: U-turn / Toxic / Earthquake
+Buzzwole: Roost / Toxic
+Zeraora: Knock Off / Close Combat
+Melmetal: Protect / Thunder Punch / Double Iron Bash
+
+BRO FIST:
+Slowking: Future Sight / Teleport / Slack Off
+Nidoking: Thunderbolt / Earth Power
+Ferrothorn: Stealth Rock / Knock Off / Power Whip
+Landorus-Therian: U-turn / Earthquake
+Tapu Koko: U-turn / Roost / Thunderbolt / Dazzling Gleam
+Buzzwole: Close Combat / Roost / Thunder Punch
+
+RUBYBLOOD:
+Skarmory: Roost
+Hippowdon: Earthquake
+Tapu Koko: Dazzling Gleam
+Reuniclus: Calm Mind / Focus Blast / Recover
+Toxapex: Light Screen / Recover
+Tornadus-Therian: Knock Off
+
+MIND GAMING:
+Weavile: Beat Up
+Landorus-Therian: Stealth Rock / U-turn / Earthquake
+Volcanion: Steam Eruption
+Tapu Koko: Grass Knot / Thunderbolt
+Buzzwole: 
+Kartana: Leaf Blade
+
+THE ASIANCY:
+Tapu Lele: Moonblast
+Magnezone: Iron Defense / Body Press
+Landorus-Therian: U-turn
+Volcanion: 
+Weavile: Knock Off / Swords Dance / Triple Axel
+Dragonite: Dragon Dance / Ice Punch
+
+ROBJR:
+Slowking: Scald / Teleport
+Ferrothorn: Power Whip / Leech Seed / Stealth Rock
+Landorus-Therian: U-turn
+Tapu Lele: Psyshock / Moonblast
+Buzzwole: Ice Punch
+Dragapult: Shadow Ball / Flamethrower
+
+STAREAL:
+Kartana: Knock Off / Swords Dance / Leaf Blade
+Clefable: Calm Mind / Moonblast / Soft-Boiled
+Landorus-Therian: Knock Off / U-turn / Earthquake
+Heatran: Protect / Stealth Rock / Magma Storm / Toxic
+Rotom-Wash: Pain Split / Volt Switch
+Dragonite: Dragon Dance / Earthquake / Roost
+
+TACE㋛:
+Landorus-Therian: Earthquake / Stealth Rock / U-turn / Explosion
+Ferrothorn: Knock Off
+Tapu Koko: Dazzling Gleam / Thunderbolt
+Dragonite: Dual Wingbeat / Superpower / Dragon Dance / Roost
+Buzzwole: Close Combat / Ice Punch
+Tapu Fini: Nature's Madness / Knock Off / Defog / Moonblast
+
+EZ:
+Aegislash: 
+Shuckle: Sticky Web
+Dragonite: 
+Tapu Koko: U-turn
+Blastoise: Shell Smash / Focus Blast / Surf
+Diggersby: 
+
+MNCMT:
+Tapu Koko: 
+Landorus-Therian: Defog / U-turn
+Volcanion: 
+Kartana: 
+Weavile: Beat Up / Ice Shard
+Buzzwole: 
+
+INSULT:
+Buzzwole: Ice Punch / Roost / Close Combat / Poison Jab
+Clefable: Trick / Stealth Rock
+Zeraora: Plasma Fists / Knock Off / Volt Switch
+Slowking-Galar: Slack Off / Calm Mind / Scald / Sludge Bomb / Struggle
+Dragonite: Ice Punch / Earthquake
+Ferrothorn: 
+
+STORM ZONE:
+Kartana: Smart Strike / Knock Off
+Heatran: Stealth Rock / Toxic / Magma Storm / Protect
+Landorus-Therian: Defog / Earthquake / U-turn
+Zapdos-Galar: Drill Peck / U-turn / Brave Bird
+Toxapex: Knock Off / Haze / Poison Jab / Recover
+Weavile: Beat Up / Triple Axel
+
+TALAH:
+Rotom-Wash: Hydro Pump / Volt Switch
+Blacephalon: Shadow Ball
+Buzzwole: 
+Landorus-Therian: U-turn
+Heatran: Stealth Rock / Magma Storm
+Dragapult: Shadow Ball / Hydro Pump
+
+THE ASIANCY:
+Tapu Lele: Psychic
+Heatran: Stealth Rock
+Landorus-Therian: Toxic / U-turn
+Tapu Fini: Surf / Moonblast
+Weavile: Swords Dance
+Dragonite: Dragon Dance / Dual Wingbeat
+
+SAGE:
+Blaziken: Stone Edge / Close Combat / Swords Dance
+Landorus-Therian: 
+Nihilego: Stealth Rock / Sludge Wave
+Celesteela: Meteor Beam / Flamethrower / Air Slash
+Kartana: Swords Dance / Knock Off / Aerial Ace
+Urshifu-*: 
+
+NAT:
+Dragonite: Dragon Dance / Roost / Ice Punch / Earthquake
+Tapu Koko: Thunderbolt
+Buzzwole: Close Combat
+Heatran: Earth Power
+Ferrothorn: Thunder Wave
+Garchomp: Earthquake
+
+ROBJR:
+Tapu Koko: U-turn / Thunderbolt / Dazzling Gleam
+Ferrothorn: Knock Off / Stealth Rock / Leech Seed
+Nidoking: Sludge Wave / Ice Beam
+Buzzwole: Ice Punch / Close Combat
+Slowking: Future Sight / Slack Off / Scald
+Landorus-Therian: U-turn
+
+MNCMT:
+Kartana: Sacred Sword
+Urshifu-*: 
+Landorus-Therian: Stealth Rock / Earthquake
+Rillaboom: Swords Dance / Acrobatics / Superpower / Grassy Glide
+Heatran: Magma Storm / Taunt / Protect / Earth Power
+Zapdos: Toxic
+
+STORM ZONE:
+Landorus-Therian: U-turn
+Ferrothorn: Leech Seed / Stealth Rock
+Tapu Lele: Psyshock
+Alakazam: Expanding Force
+Moltres-Galar: U-turn
+Rotom-Wash: Hydro Pump / Volt Switch
+
+BRO FIST:
+Magnezone: Toxic / Iron Defense / Body Press
+Tornadus-Therian: U-turn / Knock Off / Icy Wind
+Landorus-Therian: U-turn
+Tapu Lele: Psychic / Moonblast
+Tapu Fini: Calm Mind / Draining Kiss / Scald
+Nihilego: 
+
+STAREAL:
+Rotom-Wash: Hydro Pump
+Buzzwole: Roost
+Heatran: Stealth Rock / Magma Storm
+Landorus-Therian: U-turn
+Dragapult: Shadow Ball / Draco Meteor
+Slowbro: Future Sight / Scald
+
+MIND GAMING:
+Tyranitar: Stone Edge
+Landorus-Therian: U-turn / Stealth Rock / Knock Off
+Toxapex: Recover
+Tapu Lele: Psychic / Moonblast
+Blacephalon: Shadow Ball
+Corviknight: Defog / Roost / U-turn
+
+INSULT:
+Landorus-Therian: U-turn
+Tapu Fini: Scald
+Jirachi: Stealth Rock
+Magnezone: Discharge
+Weavile: Ice Shard / Knock Off
+Tapu Lele: Moonblast
+
+NIKO:
+Dragapult: U-turn
+Landorus-Therian: Earthquake / U-turn
+Weavile: Knock Off
+Kartana: Sacred Sword
+Blacephalon: Calm Mind / Shadow Ball / Flamethrower
+Melmetal: Double Iron Bash / Superpower / Earthquake
+
+CLARK_03:
+Tornadus-Therian: Heat Wave / Knock Off / U-turn
+Buzzwole: Close Combat / Ice Punch
+Corviknight: Defog / U-turn
+Blissey: Soft-Boiled / Toxic / Seismic Toss
+Gastrodon: Scald / Clear Smog / Earth Power
+Toxapex: Toxic Spikes / Haze / Recover
+
+ALTINA:
+Landorus-Therian: Defog / Stealth Rock / U-turn
+Tapu Lele: Psychic
+Magnezone: Thunderbolt / Iron Defense / Body Press
+Volcanion: Steam Eruption / Earth Power
+Weavile: Knock Off / Swords Dance / Triple Axel
+Dragonite: Dragon Dance / Roost / Ice Punch
+
+EZ:
+Tapu Lele: Nature's Madness / Psychic / Taunt
+Espeon: 
+Polteageist: Shell Smash / Giga Drain
+Omastar: Shell Smash / Meteor Beam / Surf / Earth Power
+Cloyster: Shell Smash / Icicle Spear / Rock Blast
+Hawlucha: Acrobatics / Swords Dance / Close Combat / Roost
+
+JOYA:
+Weavile: Ice Shard / Knock Off
+Toxapex: Toxic / Scald / Recover / Haze
+Urshifu-*: 
+Slowking-Galar: Future Sight
+Landorus-Therian: Stealth Rock / U-turn
+Corviknight: U-turn
+
+NO 1 GTCHA FAN:
+Rotom-Wash: Nasty Plot / Discharge / Hydro Pump
+Clefable: Stealth Rock / Soft-Boiled / Trick / Moonblast
+Skarmory: Spikes
+Heatran: 
+Slowking-Galar: 
+Krookodile: Knock Off / Stone Edge / Close Combat
+
+ACRONE:
+Tapu Lele: Psychic
+Blacephalon: Shadow Ball
+Tyranitar: Rock Blast / Stone Edge
+Landorus-Therian: Knock Off / U-turn / Stealth Rock / Earthquake
+Corviknight: Defog / U-turn
+Toxapex: 
+
+SEPARATION:
+Nihilego: 
+Celesteela: Air Slash / Fire Blast
+Garchomp: Stealth Rock / Earthquake
+Zapdos-Galar: U-turn / Close Combat
+Tapu Fini: Nature's Madness / Moonblast
+Kartana: Knock Off
+
+PKMN CYPHER 2013:
+Slowbro: Teleport
+Weavile: Beat Up
+Heatran: Lava Plume
+Tornadus-Therian: Knock Off / Hurricane / U-turn
+Landorus-Therian: Earthquake / Knock Off / U-turn / Defog
+Melmetal: Protect
+
+MICHAELDERBESTE2:
+Buzzwole: Roost / Close Combat
+Slowking-Galar: Sludge Bomb / Future Sight / Earthquake
+Zeraora: Knock Off
+Landorus-Therian: Stealth Rock / U-turn / Explosion
+Heatran: Toxic / Protect / Magma Storm / Earth Power
+Rotom-Wash: Pain Split / Defog / Volt Switch / Hydro Pump
+
+BLUBIRD:
+Dragapult: U-turn / Dragon Darts / Hex
+Urshifu-*: 
+Zapdos: Volt Switch / Toxic / Hurricane / Roost
+Heatran: Stealth Rock / Will-O-Wisp / Magma Storm
+Slowking: Scald / Future Sight / Slack Off / Teleport
+Landorus-Therian: Knock Off / U-turn / Defog
+
+MANNAT:
+Blacephalon: Flamethrower / Calm Mind / Stored Power
+Weavile: 
+Corviknight: Defog / U-turn
+Garchomp: Stealth Rock
+Slowking-Galar: Future Sight / Scald
+Urshifu-*: 
+
+LUTHIER:
+Buzzwole: 
+Clefable: Knock Off / Thunder Wave
+Ferrothorn: Knock Off / Iron Head / Spikes
+Heatran: Stealth Rock
+Rotom-Wash: Volt Switch
+Zeraora: Knock Off / Close Combat
+
+OX THE FOX:
+Melmetal: Thunder Punch / Superpower
+Garchomp: Stealth Rock
+Weavile: Knock Off / Swords Dance
+Urshifu-*: 
+Slowking-Galar: Future Sight / Sludge Bomb / Scald
+Corviknight: U-turn
+
+64 SQUARES:
+Corviknight: Brave Bird / Roost / U-turn
+Buzzwole: Ice Punch / Close Combat
+Gastrodon: 
+Tornadus-Therian: Taunt / Knock Off / U-turn
+Blissey: Stealth Rock / Seismic Toss
+Toxapex: Scald / Light Screen
+
+SAGE:
+Slowking-Galar: Future Sight
+Heatran: Stealth Rock / Magma Storm
+Tornadus-Therian: Hurricane
+Buzzwole: Close Combat
+Zeraora: Knock Off / Plasma Fists / Bulk Up / Close Combat
+Urshifu-*: 
+
+MIND GAMING:
+Weavile: Low Kick
+Heatran: Stealth Rock / Earth Power
+Landorus-Therian: Knock Off / Earthquake
+Tapu Lele: Psyshock
+Tapu Fini: Moonblast
+Dragapult: U-turn / Shadow Ball / Draco Meteor
+
+HSA:
+Ferrothorn: 
+Weavile: Knock Off / Swords Dance / Triple Axel
+Heatran: Stealth Rock / Magma Storm / Heavy Slam
+Slowbro: Teleport / Slack Off
+Landorus-Therian: Defog / U-turn / Toxic
+Zeraora: Plasma Fists
+
+SUAPAH:
+Landorus-Therian: Knock Off / Stealth Rock
+Ferrothorn: Spikes / Body Press
+Tapu Koko: Toxic / Dazzling Gleam / Volt Switch
+Dragonite: Roost / Earthquake / Ice Beam
+Clefable: Calm Mind / Thunderbolt / Soft-Boiled
+Volcarona: 
+
+BRO FIST:
+Dragonite: 
+Jirachi: Stealth Rock
+Weavile: Knock Off
+Volcarona: 
+Landorus-Therian: Knock Off / U-turn
+Kartana: Knock Off
+
+LEO:
+Rotom-Wash: 
+Dragapult: 
+Ferrothorn: Stealth Rock
+Blacephalon: Flamethrower
+Weavile: Beat Up
+Landorus-Therian: Toxic / U-turn
+
+MAX UND MAX:
+Tapu Koko: Volt Switch / Dazzling Gleam / Thunderbolt
+Weavile: Triple Axel / Ice Shard / Knock Off
+Garchomp: Swords Dance / Earthquake / Fire Fang
+Landorus-Therian: Stealth Rock / U-turn / Earthquake
+Heatran: Stealth Rock / Eruption
+Tapu Fini: Moonblast / Taunt / Nature's Madness
+
+PKMN CYPHER 2013:
+Clefable: Calm Mind / Moonblast / Soft-Boiled
+Weavile: Knock Off / Triple Axel
+Landorus-Therian: Defog
+Tapu Koko: U-turn / Thunderbolt
+Heatran: Stealth Rock / Earth Power
+Slowbro: Future Sight / Teleport / Scald
+
+BLEACH:
+Tapu Koko: Volt Switch / Nature's Madness / Dazzling Gleam
+Kartana: Knock Off / Synthesis / Leaf Blade
+Dragonite: Dragon Dance / Earthquake / Roost / Ice Punch
+Landorus-Therian: Toxic / Earthquake
+Heatran: Stealth Rock / Magma Storm
+Clefable: Knock Off / Thunder Wave / Soft-Boiled / Moonblast
+
+OX THE FOX:
+Garchomp: Swords Dance / Stealth Rock / Aqua Tail
+Tornadus-Therian: Heat Wave / U-turn
+Heatran: Toxic / Protect / Magma Storm
+Clefable: Thunder Wave / Knock Off / Moonblast / Soft-Boiled
+Rotom-Wash: Volt Switch / Hydro Pump / Pain Split / Thunderbolt
+Weavile: Knock Off / Ice Shard
+
+RAIDERS SZN OVER:
+Excadrill: Earthquake / Swords Dance / Iron Head / Rapid Spin
+Tyranitar: Stone Edge / Crunch
+Clefable: Knock Off / Stealth Rock / Soft-Boiled / Moonblast
+Tornadus-Therian: U-turn / Taunt / Knock Off / Hurricane
+Rotom-Wash: Pain Split / Nasty Plot / Hydro Pump / Discharge
+Volcarona: Quiver Dance / Roost / Fire Blast
+
+STRESH:
+Blissey: Stealth Rock / Seismic Toss / Soft-Boiled / Toxic
+Slowking-Galar: Future Sight / Scald / Sludge Bomb
+Corviknight: Iron Defense / Roost / Defog
+Toxapex: Toxic / Recover / Knock Off / Light Screen
+Clefable: Soft-Boiled / Heal Bell / Moonblast / Calm Mind
+Gastrodon: Recover / Scald / Earthquake / Protect
+
+SUAPAH:
+Landorus-Therian: Swords Dance / Knock Off / Stone Edge / Earthquake
+Ferrothorn: Worry Seed / Leech Seed / Spikes
+Dragonite: Roost / Flamethrower / Heal Bell
+Tapu Koko: Volt Switch / Toxic
+Clefable: Knock Off / Stealth Rock / Soft-Boiled / Moonblast
+Weavile: Triple Axel / Knock Off
+
+LEO:
+Zapdos: Volt Switch / Heat Wave / Toxic
+Clefable: Knock Off / Soft-Boiled / Calm Mind / Moonblast
+Hydreigon: Nasty Plot / Roost / Flash Cannon
+Toxapex: Scald / Recover / Haze / Toxic
+Ferrothorn: Stealth Rock / Spikes
+Zeraora: Bulk Up / Plasma Fists / Knock Off
+
+BLEACH:
+Ninetales-Alola: Hypnosis
+Dragapult: Dragon Dance
+Heatran: Stealth Rock / Earth Power
+Garchomp: Scale Shot / Earthquake
+Scizor: Bullet Punch / Roost / Knock Off
+Arctozolt: Bolt Beak / Blizzard
+
+DICE:
+Landorus-Therian: 
+Weavile: Knock Off / Triple Axel
+Heatran: Stealth Rock / Heavy Slam / Magma Storm
+Tapu Fini: Scald / Defog
+Buzzwole: Close Combat / Earthquake
+Dragapult: Shadow Ball
+
+PKMN CYPHER 2013:
+Zeraora: 
+Tapu Fini: Trick / Moonblast
+Heatran: Magma Storm
+Kartana: 
+Garchomp: Swords Dance / Scale Shot / Earthquake / Fire Fang
+Landorus-Therian: Knock Off / Stealth Rock
+
+MIND GAMING:
+Skarmory: Spikes / Roost
+Blissey: 
+Gastrodon: Scald / Earth Power / Recover
+Reuniclus: 
+Toxapex: 
+Tapu Koko: 
+
+BRO FIST:
+Clefable: Thunderbolt / Soft-Boiled / Moonblast / Calm Mind
+Slowking-Galar: Calm Mind / Sludge Bomb / Slack Off / Scald
+Skarmory: Spikes / Roost / Toxic / Body Press
+Gastrodon: Scald / Toxic / Recover / Earth Power
+Heatran: Stealth Rock / Magma Storm
+Tapu Koko: Toxic / Volt Switch / Roost / Dazzling Gleam
+
+100PERCENTPUREHEAT:
+Ferrothorn: Spikes / Knock Off / Leech Seed / Gyro Ball
+Volcarona: Roost / Quiver Dance / Psychic / Fire Blast
+Tapu Koko: Nature's Madness / Volt Switch / Dazzling Gleam / Roost
+Landorus-Therian: Earthquake / Stealth Rock / Knock Off / Explosion
+Clefable: Thunder Wave / Knock Off / Moonblast / Soft-Boiled
+Dragonite: Earthquake / Dual Wingbeat / Roost / Dragon Dance
+
+BLEACH:
+Landorus-Therian: Defog / U-turn
+Heatran: Toxic
+Clefable: Soft-Boiled
+Hydreigon: Dark Pulse
+Ferrothorn: Stealth Rock / Body Press / Knock Off
+Tapu Koko: Thunderbolt / Dazzling Gleam
+
+SUAPAH:
+Landorus-Therian: U-turn / Defog / Earthquake
+Heatran: Stealth Rock / Earth Power
+Slowking: 
+Weavile: Swords Dance / Triple Axel
+Buzzwole: Earthquake / Ice Punch / Close Combat
+Blacephalon: Trick
+
+BLEACH:
+Heatran: Magma Storm / Stealth Rock / Taunt
+Blacephalon: Shadow Ball
+Landorus-Therian: U-turn / Toxic / Defog
+Weavile: Knock Off / Swords Dance
+Tapu Fini: 
+Kartana: Knock Off / Leaf Blade / Sacred Sword
+
+BRO FIST:
+Slowbro: Future Sight / Teleport / Slack Off / Body Press
+Garchomp: Earthquake / Swords Dance
+Weavile: Knock Off
+Tornadus-Therian: U-turn / Defog / Heat Wave
+Landorus-Therian: Stealth Rock / Toxic / U-turn
+Melmetal: Double Iron Bash / Superpower
