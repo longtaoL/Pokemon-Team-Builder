@@ -16,4 +16,7 @@ for team in divided_teams:
         pokemonarray[mon] = pokemonarray[mon].split(":")[0]
     final_teams.append(tuple(pokemonarray))
 
-print(final_teams)
+
+for x in final_teams:
+    print(x, end='')
+    print(',')
