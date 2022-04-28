@@ -1,0 +1,626 @@
+0 Soft-Boiled
+1 Aromatherapy
+2 Pluck
+3 Storm Throw
+4 Aura Sphere
+5 Razor Leaf
+6 Uproar
+7 Struggle Bug
+8 Fairy Wind
+9 Muddy Water
+10 Block
+11 Rock Smash
+12 Moonlight
+13 Freeze Shock
+14 Spit Up
+15 Lava Plume
+16 Crafty Shield
+17 Mean Look
+18 Sludge Bomb
+19 Peck
+20 Revenge
+21 Taunt
+22 Iron Tail
+23 Stomp
+24 Tri Attack
+25 Leaf Blade
+26 Acid Spray
+27 Aeroblast
+28 Circle Throw
+29 Skill Swap
+30 Flip Turn
+31 Rollout
+32 Instruct
+33 Shock Wave
+34 Hail
+35 Play Nice
+36 Pyro Ball
+37 Spirit Shackle
+38 Agility
+39 Morning Sun
+40 Night Daze
+41 Seismic Toss
+42 Frenzy Plant
+43 Extreme Speed
+44 Mega Drain
+45 Thunder
+46 Leafage
+47 Guard Split
+48 After You
+49 Dig
+50 Dream Eater
+51 Simple Beam
+52 Beat Up
+53 False Swipe
+54 Poison Sting
+55 Rock Blast
+56 Tearful Look
+57 Attract
+58 Recycle
+59 Hone Claws
+60 Lunar Dance
+61 Close Combat
+62 Heal Pulse
+63 Reflect Type
+64 First Impression
+65 Burn Up
+66 Mimic
+67 Terrain Pulse
+68 Ice Burn
+69 Shadow Force
+70 Icicle Crash
+71 Grass Pledge
+72 Power Trick
+73 Crunch
+74 Volt Switch
+75 Mach Punch
+76 Aqua Ring
+77 King's Shield
+78 Flatter
+79 Stun Spore
+80 Slam
+81 Crush Claw
+82 Endure
+83 Water Spout
+84 Corrosive Gas
+85 Blast Burn
+86 Sweet Kiss
+87 Stone Edge
+88 Magic Coat
+89 Skull Bash
+90 Bone Rush
+91 Spite
+92 Trop Kick
+93 Detect
+94 String Shot
+95 High Horsepower
+96 Mirror Coat
+97 Tickle
+98 Acrobatics
+99 Aura Wheel
+100 Strength
+101 Defend Order
+102 Steel Beam
+103 Superpower
+104 Teeter Dance
+105 Dragon Hammer
+106 Charge Beam
+107 Grav Apple
+108 Triple Axel
+109 Hydro Cannon
+110 Bounce
+111 Quash
+112 Gravity
+113 Reversal
+114 Spore
+115 Heat Wave
+116 Dragon Energy
+117 Mystical Fire
+118 Forest's Curse
+119 Coaching
+120 Body Slam
+121 Cotton Spore
+122 Brutal Swing
+123 Celebrate
+124 Cut
+125 Heavy Slam
+126 Apple Acid
+127 Tail Slap
+128 Swallow
+129 Bolt Beak
+130 Guillotine
+131 Psycho Shift
+132 Thousand Arrows
+133 Extrasensory
+134 Flame Wheel
+135 Leer
+136 Growl
+137 Acid
+138 Fake Out
+139 Freezing Glare
+140 Giga Impact
+141 Thunder Shock
+142 Wild Charge
+143 Confide
+144 Memento
+145 Growth
+146 Final Gambit
+147 Feather Dance
+148 Spikes
+149 Thief
+150 Octolock
+151 Air Slash
+152 Coil
+153 Snore
+154 Thunderous Kick
+155 Super Fang
+156 Electrify
+157 Metal Burst
+158 Heat Crash
+159 Lunge
+160 Mega Kick
+161 Thousand Waves
+162 Overheat
+163 Eerie Impulse
+164 Work Up
+165 Electroweb
+166 Shadow Sneak
+167 Rest
+168 Vacuum Wave
+169 Recover
+170 Sacred Fire
+171 Fishious Rend
+172 Mud Shot
+173 Bind
+174 Rock Wrecker
+175 Minimize
+176 Meteor Beam
+177 Ice Fang
+178 Brine
+179 Vine Whip
+180 Volt Tackle
+181 Scary Face
+182 Earth Power
+183 Worry Seed
+184 Poison Fang
+185 Phantom Force
+186 Eruption
+187 Astral Barrage
+188 Poltergeist
+189 Shore Up
+190 Counter
+191 Guard Swap
+192 Body Press
+193 Iron Head
+194 Magic Room
+195 Overdrive
+196 Fusion Bolt
+197 Lovely Kiss
+198 Dual Wingbeat
+199 Grassy Terrain
+200 Shadow Punch
+201 Scorching Sands
+202 Sky Attack
+203 Astonish
+204 Shell Smash
+205 Decorate
+206 Oblivion Wing
+207 Disable
+208 Petal Dance
+209 Steel Roller
+210 Water Shuriken
+211 Ice Punch
+212 Surging Strikes
+213 Belch
+214 Moonblast
+215 Icicle Spear
+216 Rising Voltage
+217 Arm Thrust
+218 Court Change
+219 Role Play
+220 Power Swap
+221 Gunk Shot
+222 Discharge
+223 Roar
+224 Round
+225 Destiny Bond
+226 Low Kick
+227 Magnetic Flux
+228 Grass Knot
+229 Will-O-Wisp
+230 Glacial Lance
+231 Focus Blast
+232 Autotomize
+233 Rock Tomb
+234 Darkest Lariat
+235 Multi-Attack
+236 Flail
+237 Grassy Glide
+238 Power Gem
+239 Horn Attack
+240 Dragon Breath
+241 Water Gun
+242 Splash
+243 Ember
+244 Bulldoze
+245 Smog
+246 Scratch
+247 Last Resort
+248 Dragon Rush
+249 Slack Off
+250 Wood Hammer
+251 Protect
+252 Baby-Doll Eyes
+253 Strange Steam
+254 Head Smash
+255 Fury Swipes
+256 Synthesis
+257 Substitute
+258 Speed Swap
+259 Zen Headbutt
+260 Sing
+261 Focus Punch
+262 Branch Poke
+263 Inferno
+264 Pound
+265 Teatime
+266 Mega Punch
+267 Poison Tail
+268 Pollen Puff
+269 Dark Pulse
+270 Weather Ball
+271 Pin Missile
+272 Zap Cannon
+273 Expanding Force
+274 Throat Chop
+275 Whirlwind
+276 Razor Shell
+277 Shift Gear
+278 Leech Seed
+279 Mist
+280 Encore
+281 Fire Lash
+282 Sticky Web
+283 Confuse Ray
+284 Play Rough
+285 Feint
+286 Magnet Rise
+287 Pain Split
+288 Behemoth Blade
+289 Giga Drain
+290 Precipice Blades
+291 Double Team
+292 Fling
+293 Dive
+294 Dragon Claw
+295 Earthquake
+296 Trick
+297 Heal Bell
+298 Psybeam
+299 Smack Down
+300 Aerial Ace
+301 Bite
+302 Thrash
+303 Jaw Lock
+304 Blue Flare
+305 Avalanche
+306 Petal Blizzard
+307 Acid Armor
+308 Spark
+309 Fissure
+310 Geomancy
+311 Shadow Claw
+312 Scale Shot
+313 Gyro Ball
+314 Purify
+315 Dazzling Gleam
+316 Scald
+317 Lash Out
+318 Drill Peck
+319 Magical Leaf
+320 Liquidation
+321 Stomping Tantrum
+322 Future Sight
+323 Fire Punch
+324 Baton Pass
+325 Crabhammer
+326 Flash Cannon
+327 Nature's Madness
+328 Thunder Cage
+329 Bullet Punch
+330 Eternabeam
+331 Headbutt
+332 Teleport
+333 Perish Song
+334 Bulk Up
+335 Shell Side Arm
+336 Dragon Ascent
+337 Psychic
+338 Blizzard
+339 Knock Off
+340 Energy Ball
+341 Aurora Beam
+342 Aqua Jet
+343 Aurora Veil
+344 Reflect
+345 Toxic Spikes
+346 Night Slash
+347 Iron Defense
+348 Pay Day
+349 Fly
+350 Drain Punch
+351 Blaze Kick
+352 Shell Trap
+353 Clanging Scales
+354 Thunder Punch
+355 Copycat
+356 Covet
+357 Swords Dance
+358 Endeavor
+359 Air Cutter
+360 Leech Life
+361 Twister
+362 Hurricane
+363 Infestation
+364 Ice Shard
+365 Mind Reader
+366 Absorb
+367 Leaf Storm
+368 Nuzzle
+369 Fire Spin
+370 Payback
+371 Sparkling Aria
+372 High Jump Kick
+373 Spiky Shield
+374 U-turn
+375 Brick Break
+376 Quick Guard
+377 Flying Press
+378 Hyper Voice
+379 Megahorn
+380 Psystrike
+381 Outrage
+382 Electric Terrain
+383 Cross Poison
+384 Acupressure
+385 Crush Grip
+386 Misty Explosion
+387 Hypnosis
+388 Meteor Assault
+389 Ancient Power
+390 Powder Snow
+391 Sand Attack
+392 X-Scissor
+393 Dual Chop
+394 Rain Dance
+395 Sunsteel Strike
+396 Flamethrower
+397 Yawn
+398 Sacred Sword
+399 Tackle
+400 Parabolic Charge
+401 Dragon Tail
+402 Triple Kick
+403 Flower Shield
+404 Brave Bird
+405 Anchor Shot
+406 Attack Order
+407 Water Pulse
+408 Focus Energy
+409 Toxic
+410 Lock-On
+411 Bullet Seed
+412 Soak
+413 Poison Jab
+414 Life Dew
+415 Core Enforcer
+416 Skitter Smack
+417 Trick-or-Treat
+418 Belly Drum
+419 Origin Pulse
+420 Double Hit
+421 Roar of Time
+422 Topsy-Turvy
+423 Sludge Wave
+424 Defog
+425 Snap Trap
+426 Helping Hand
+427 Cotton Guard
+428 Fury Cutter
+429 Bug Bite
+430 Clangorous Soul
+431 Milk Drink
+432 Gastro Acid
+433 Psych Up
+434 Laser Focus
+435 Shadow Ball
+436 Metronome
+437 Defense Curl
+438 Prismatic Laser
+439 Bonemerang
+440 Sandstorm
+441 Solar Beam
+442 Venom Drench
+443 Leaf Tornado
+444 Parting Shot
+445 Lick
+446 Thunder Wave
+447 Wish
+448 Seed Bomb
+449 Snarl
+450 Stuff Cheeks
+451 Horn Leech
+452 Supersonic
+453 Gear Grind
+454 Wrap
+455 Dragon Dance
+456 Waterfall
+457 Submission
+458 Fiery Dance
+459 Gust
+460 Mist Ball
+461 Dragon Darts
+462 Noble Roar
+463 Self-Destruct
+464 Night Shade
+465 Transform
+466 Mud-Slap
+467 Sunny Day
+468 Dragon Pulse
+469 Wonder Room
+470 Disarming Voice
+471 Steel Wing
+472 Fairy Lock
+473 Explosion
+474 Torment
+475 Thunderbolt
+476 Curse
+477 Draining Kiss
+478 Dynamic Punch
+479 Sand Tomb
+480 Psychic Terrain
+481 Ingrain
+482 Hydro Pump
+483 Bug Buzz
+484 Horn Drill
+485 Fire Blast
+486 Swagger
+487 Facade
+488 Spacial Rend
+489 Hyper Beam
+490 Misty Terrain
+491 Bolt Strike
+492 Rock Throw
+493 Boomburst
+494 Double-Edge
+495 Safeguard
+496 Power Split
+497 Stockpile
+498 Drill Run
+499 Withdraw
+500 Screech
+501 Surf
+502 Nature Power
+503 Draco Meteor
+504 Baneful Bunker
+505 Rock Slide
+506 Magma Storm
+507 Thunder Fang
+508 Magic Powder
+509 Psycho Cut
+510 Shadow Bone
+511 Grudge
+512 Water Pledge
+513 Swift
+514 Zing Zap
+515 Icy Wind
+516 False Surrender
+517 Solar Blade
+518 Behemoth Bash
+519 Power Trip
+520 Ice Beam
+521 Double Kick
+522 Light Screen
+523 Tailwind
+524 Wide Guard
+525 Stealth Rock
+526 Foul Play
+527 Metal Claw
+528 Howl
+529 Hammer Arm
+530 Floral Healing
+531 Charge
+532 Take Down
+533 Sleep Talk
+534 Fell Stinger
+535 Incinerate
+536 Assurance
+537 Aqua Tail
+538 Metal Sound
+539 Aromatic Mist
+540 Freeze-Dry
+541 Gear Up
+542 Wing Attack
+543 Fake Tears
+544 Stored Power
+545 Sucker Punch
+546 Sheer Cold
+547 Strength Sap
+548 Moongeist Beam
+549 Entrainment
+550 Haze
+551 Electro Ball
+552 Glaciate
+553 Venoshock
+554 No Retreat
+555 Accelerock
+556 Fury Attack
+557 Head Charge
+558 Echoed Voice
+559 Rage Powder
+560 Sleep Powder
+561 Hex
+562 Cross Chop
+563 Power Whip
+564 Present
+565 Poison Powder
+566 Luster Purge
+567 Roost
+568 Power-Up Punch
+569 Switcheroo
+570 Quiver Dance
+571 Eerie Spell
+572 Poison Gas
+573 Amnesia
+574 Smart Strike
+575 Ally Switch
+576 Force Palm
+577 Obstruct
+578 Sludge
+579 Fire Pledge
+580 Conversion
+581 Healing Wish
+582 Sweet Scent
+583 Photon Geyser
+584 Octazooka
+585 Frost Breath
+586 Bubble Beam
+587 Drum Beating
+588 Mind Blown
+589 Snipe Shot
+590 Land's Wrath
+591 Fire Fang
+592 Nasty Plot
+593 Cosmic Power
+594 Flame Charge
+595 Trick Room
+596 Imprison
+597 Psyshock
+598 Smokescreen
+599 Low Sweep
+600 Burning Jealousy
+601 Tar Shot
+602 Quick Attack
+603 Confusion
+604 Breaking Swipe
+605 Dynamax Cannon
+606 Tail Whip
+607 Wicked Blow
+608 Fusion Flare
+609 Fiery Wrath
+610 Spirit Break
+611 Glare
+612 Follow Me
+613 Rock Polish
+614 Charm
+615 Rapid Spin
+616 Slash
+617 Whirlpool
+618 Harden
+619 Conversion 2
+620 Flare Blitz
+621 Calm Mind
+622 Clear Smog
+623 Meteor Mash
+624 Retaliate
+625 Psychic Fangs
