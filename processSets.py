@@ -14,7 +14,7 @@ for line in moves:
     movesLookup[sLine[1][:-1]] = int(sLine[0])
 
 def writeJson():
-    print("Writing Json output...")
+    print("\nWriting Json output...")
     result = {}
     result['teams'] = teamsList
 
@@ -25,7 +25,7 @@ def writeJson():
 
 def writePokemonFile():
     length = len(setsOrdered)
-    print("Creating " + str(length) + " Pokemon Entries...")
+    print("\nCreating " + str(length) + " Pokemon Entries...")
     for k, v in setsOrdered.items():
         i += 1
         textPath = os.path.join(os.path.expanduser('~'), 'Documents', 'processedDataHere', 'pokemonSets', k + '.txt')
